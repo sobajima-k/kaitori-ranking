@@ -1,0 +1,174 @@
+<title>家電 買取率ランキング</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=BIZ+UDPGothic:wght@400;700&family=Zen+Kaku+Gothic+New:wght@700;900&family=IBM+Plex+Mono:wght@400;600&display=swap">
+<style>
+/* Layout: header summary, filter bar, then one dense ranked table; rate drawn as an inline meter */
+:root {
+  --bg: #f5f6f8; --surface: #ffffff; --fg: #1b2230; --muted: #626c7e; --line: #dde1e8;
+  --accent: #1f6f78; --accent-soft: #d6ebec; --warn: #b05a00; --warn-soft: #fbead5; --hot: #b8325a;
+  --f-display: "Zen Kaku Gothic New", "Hiragino Sans", "Yu Gothic", sans-serif;
+  --f-body: "BIZ UDPGothic", "Hiragino Sans", "Yu Gothic", sans-serif;
+  --f-num: "IBM Plex Mono", ui-monospace, Consolas, monospace;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #12161d; --surface: #1a2029; --fg: #e5e9f0; --muted: #96a0b2; --line: #2b3340;
+  --accent: #5cc0c8; --accent-soft: #1d3b3f; --warn: #f0a650; --warn-soft: #3a2c1a; --hot: #f07a9b; color-scheme: dark } }
+:root[data-theme="dark"] {
+  --bg: #12161d; --surface: #1a2029; --fg: #e5e9f0; --muted: #96a0b2; --line: #2b3340;
+  --accent: #5cc0c8; --accent-soft: #1d3b3f; --warn: #f0a650; --warn-soft: #3a2c1a; --hot: #f07a9b; color-scheme: dark }
+body { background: var(--bg); color: var(--fg); font-family: var(--f-body); line-height: 1.6; }
+.wrap { max-width: 1120px; margin: 0 auto; padding-block: 28px 48px;
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px));
+  display: grid; gap: 20px; }
+h1 { font-family: var(--f-display); font-weight: 900; font-size: clamp(1.5rem, 4vw, 2.1rem); margin: 0; text-wrap: balance; letter-spacing: .02em; }
+.lede { color: var(--muted); margin: 4px 0 0; max-width: 65ch; }
+.stats { display: flex; flex-wrap: wrap; gap: 8px 28px; font-size: .85rem; color: var(--muted); }
+.stats b { font-family: var(--f-num); color: var(--fg); font-size: 1.05rem; margin-left: 6px; font-variant-numeric: tabular-nums; }
+.bar { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
+.bar input[type=search], .bar select { font: inherit; padding: 8px 12px; border: 1px solid var(--line); border-radius: 6px; background: var(--surface); color: var(--fg); }
+.bar input[type=search] { flex: 1 1 240px; min-width: 0; }
+.bar label.chk { display: flex; gap: 6px; align-items: center; font-size: .9rem; cursor: pointer; }
+input:focus-visible, select:focus-visible, button:focus-visible, a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.tbl { overflow-x: auto; background: var(--surface); border: 1px solid var(--line); border-radius: 8px; }
+table { border-collapse: collapse; width: 100%; min-width: 720px; font-size: .9rem; }
+th { text-align: left; font-size: .72rem; letter-spacing: .08em; color: var(--muted); font-weight: 700; padding: 10px 12px; border-bottom: 1px solid var(--line); white-space: nowrap; position: sticky; top: 0; background: var(--surface); }
+th.s { cursor: pointer; user-select: none; }
+th.s[aria-sort]::after { content: " ▼"; color: var(--accent); }
+th.s[aria-sort="ascending"]::after { content: " ▲"; }
+td { padding: 9px 12px; border-bottom: 1px solid var(--line); vertical-align: middle; }
+tr:last-child td { border-bottom: 0; }
+.num { font-family: var(--f-num); font-variant-numeric: tabular-nums; text-align: right; white-space: nowrap; }
+.rk { font-family: var(--f-num); color: var(--muted); width: 3em; }
+tr.top .rk { color: var(--hot); font-weight: 600; }
+.rate { width: 150px; }
+.meter { display: grid; grid-template-columns: 3.6em 1fr; gap: 8px; align-items: center; }
+.meter span { font-family: var(--f-num); font-weight: 600; text-align: right; }
+.meter i { display: block; height: 6px; border-radius: 3px; background: var(--accent-soft); position: relative; overflow: hidden; }
+.meter i::before { content: ""; position: absolute; inset: 0 auto 0 0; width: var(--w); background: var(--accent); }
+.meter.over i::before { background: var(--hot); }
+.nm { min-width: 0; }
+.nm .t { font-weight: 700; }
+.nm .s { color: var(--muted); font-size: .8rem; }
+.nm .j { font-family: var(--f-num); font-size: .72rem; color: var(--muted); }
+.pill { display: inline-block; font-size: .72rem; padding: 1px 8px; border-radius: 99px; background: var(--warn-soft); color: var(--warn); font-weight: 700; margin-left: 6px; white-space: nowrap; }
+.rem { display: inline-block; font-size: .72rem; padding: 0 6px; border: 1px solid var(--line); border-radius: 4px; color: var(--muted); margin-left: 6px; }
+a { color: var(--accent); }
+.amzt { font-size: .75rem; color: var(--muted); display: -webkit-box; -webkit-line-clamp: 1; -webkit-box-orient: vertical; overflow: hidden; max-width: 34ch; }
+.more { justify-self: center; font: inherit; padding: 8px 20px; border-radius: 6px; border: 1px solid var(--accent); background: transparent; color: var(--accent); cursor: pointer; }
+.note { font-size: .8rem; color: var(--muted); max-width: 75ch; }
+.sp { display: none; }
+@media (max-width: 680px) {
+  .sp { display: block; }
+  .bar select { flex: 1 1 40%; min-width: 0; }
+  .tbl { overflow: visible; background: transparent; border: 0; }
+  table, tbody { display: block; min-width: 0; }
+  thead { display: none; }
+  tbody tr { display: grid; grid-template-columns: 2.2em repeat(3, minmax(0, 1fr)); gap: 6px 10px;
+    grid-template-areas: "rk rate rate rate" "rk nm nm nm" "rk buy amz diff" "rk lk lk lk";
+    background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 12px; margin-bottom: 8px; }
+  td { display: block; padding: 0; border: 0; min-width: 0; }
+  .rk { grid-area: rk; width: auto; font-size: 1rem; }
+  .rate { grid-area: rate; width: auto; }
+  .meter { grid-template-columns: 4.2em 1fr; }
+  .meter span { font-size: 1.1rem; text-align: left; }
+  .nm { grid-area: nm; }
+  td.c-buy { grid-area: buy; } td.c-amz { grid-area: amz; } td.c-diff { grid-area: diff; }
+  td.num { text-align: left; font-size: .85rem; white-space: normal; }
+  td.num::before { content: attr(data-label); display: block; font-family: var(--f-body); font-size: .68rem; color: var(--muted); letter-spacing: .04em; }
+  td.c-lk { grid-area: lk; font-size: .8rem; }
+  .amzt { max-width: none; }
+}
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+</style>
+
+<div class="wrap">
+  <header>
+    <h1>家電 買取率ランキング</h1>
+    <p class="lede">モバイル一番「家電買取」の新品買取価格を、Amazon.co.jp の販売価格で割った率の高い順。買取率が高いほど、Amazonで買って売ったときの目減りが小さい商品です。</p>
+  </header>
+  <div class="stats" id="stats"></div>
+  <div class="bar">
+    <input type="search" id="q" placeholder="商品名・JANで絞り込み" aria-label="商品名・JANで絞り込み">
+    <select id="minbuy" aria-label="買取価格の下限">
+      <option value="0">買取価格: すべて</option>
+      <option value="5000">5,000円以上</option>
+      <option value="20000">20,000円以上</option>
+      <option value="50000">50,000円以上</option>
+      <option value="100000">100,000円以上</option>
+    </select>
+    <select id="sort" class="sp" aria-label="並べ替え">
+      <option value="rate">買取率が高い順</option>
+      <option value="buy">買取価格が高い順</option>
+      <option value="amz">Amazon価格が高い順</option>
+      <option value="diff">差額が大きい順</option>
+    </select>
+    <label class="chk"><input type="checkbox" id="hideflag" checked> 要確認を隠す</label>
+  </div>
+  <div class="tbl">
+    <table>
+      <thead><tr>
+        <th>順位</th><th class="s" data-k="rate" aria-sort="descending">買取率</th><th>商品</th>
+        <th class="s num" data-k="buy">買取価格</th><th class="s num" data-k="amz">Amazon価格</th>
+        <th class="s num" data-k="diff">差額</th><th>Amazon商品</th>
+      </tr></thead>
+      <tbody id="tb"></tbody>
+    </table>
+  </div>
+  <button class="more" id="more" type="button">さらに表示</button>
+  <p class="note">Amazon価格はJANコードで検索した最上位（スポンサー除く）商品の表示価格で、出品者・在庫・ポイント還元は考慮していません。買取率が30%未満または130%超の商品は、検索で別商品に一致した可能性が高いため「要確認」としています。買取価格は毎日11時に更新し、Amazon価格は上記の取得日の値を使っています。新しく買取に追加された商品はAmazon価格がないためランキングに入りません。</p>
+</div>
+
+<script>
+const DATA = __DATA__;
+const META = __META__;
+DATA.forEach(r => r.diff = r.buy - r.amz);
+const yen = n => n.toLocaleString("ja-JP");
+const $ = id => document.getElementById(id);
+let sortKey = "rate", asc = false, limit = 100;
+
+$("stats").innerHTML =
+  `<div>買取価格<b>${META.date}</b></div><div>Amazon価格<b>${META.amzDate}</b></div><div>買取掲載<b>${yen(META.total)}</b>件</div>` +
+  `<div>Amazon一致<b>${yen(META.matched)}</b>件</div><div>要確認<b>${yen(META.flagged)}</b>件</div>`;
+
+function esc(s) { return String(s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c])); }
+
+function render() {
+  const q = $("q").value.trim().toLowerCase();
+  const min = +$("minbuy").value;
+  const hide = $("hideflag").checked;
+  let rows = DATA.filter(r => (!hide || !r.flag) && r.buy >= min &&
+    (!q || (r.name + " " + r.sub + " " + r.jan).toLowerCase().includes(q)));
+  rows.sort((a, b) => (asc ? 1 : -1) * (a[sortKey] - b[sortKey]));
+  const shown = rows.slice(0, limit);
+  $("tb").innerHTML = shown.map((r, i) => `
+    <tr class="${i < 10 && sortKey === "rate" && !asc ? "top" : ""}">
+      <td class="rk">${i + 1}</td>
+      <td class="rate"><div class="meter ${r.rate > 100 ? "over" : ""}"><span>${r.rate.toFixed(1)}%</span><i style="--w:${Math.min(r.rate, 100)}%"></i></div></td>
+      <td class="nm"><div class="t">${esc(r.name)}${r.flag ? '<span class="pill">要確認</span>' : ""}${r.remarks ? `<span class="rem">${esc(r.remarks)}</span>` : ""}</div>
+        ${r.sub ? `<div class="s">${esc(r.sub)}</div>` : ""}<div class="j">JAN ${esc(r.jan)}</div></td>
+      <td class="num c-buy" data-label="買取価格">${yen(r.buy)}円</td>
+      <td class="num c-amz" data-label="Amazon価格">${yen(r.amz)}円</td>
+      <td class="num c-diff" data-label="差額">${r.diff > 0 ? "+" : ""}${yen(r.diff)}円</td>
+      <td class="c-lk">${r.asin ? `<a href="https://www.amazon.co.jp/dp/${r.asin}" target="_blank" rel="noopener">${r.asin}</a>` : ""}<span class="amzt">${esc(r.amzTitle)}</span></td>
+    </tr>`).join("") || `<tr><td colspan="7">条件に合う商品がありません。絞り込みを緩めてください。</td></tr>`;
+  $("more").hidden = rows.length <= limit;
+  $("more").textContent = `さらに表示（残り${yen(rows.length - limit)}件）`;
+}
+
+document.querySelectorAll("th.s").forEach(th => th.addEventListener("click", () => {
+  const k = th.dataset.k;
+  asc = sortKey === k ? !asc : false; sortKey = k;
+  document.querySelectorAll("th.s").forEach(t => t.removeAttribute("aria-sort"));
+  th.setAttribute("aria-sort", asc ? "ascending" : "descending");
+  render();
+}));
+$("sort").addEventListener("input", e => {
+  sortKey = e.target.value; asc = false;
+  document.querySelectorAll("th.s").forEach(t => t.toggleAttribute("aria-sort", t.dataset.k === sortKey));
+  document.querySelector(`th.s[data-k="${sortKey}"]`).setAttribute("aria-sort", "descending");
+  limit = 100; render();
+});
+["q", "minbuy", "hideflag"].forEach(id => $(id).addEventListener("input", () => { limit = 100; render(); }));
+$("more").addEventListener("click", () => { limit += 200; render(); });
+render();
+</script>
