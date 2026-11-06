@@ -4,7 +4,25 @@
   "name": "Nintendo Switch 2 Proコントローラー ゼルダの伝説 40周年 アニバーサリーエディション",
   "sub": "ディスプレイスタンド付き",
   "jan": "4902370554564",
-  "buy": 12700,
+  "buy": 13000,
+  "buy_used": null,
+  "remarks": ""
+ },
+ {
+  "id": "S009801",
+  "name": "Nintendo Switch 2 国内版",
+  "sub": "",
+  "jan": "4902370553024",
+  "buy": 51800,
+  "buy_used": null,
+  "remarks": "来店+200"
+ },
+ {
+  "id": "S010148",
+  "name": "Samsung microSD Express Card 256GB for Nintendo Switch 2",
+  "sub": "",
+  "jan": "8806095700670",
+  "buy": 6700,
   "buy_used": null,
   "remarks": ""
  },
@@ -22,7 +40,7 @@
   "name": "PlayStation 5 Pro CFI-7100B01 2TB 2025版",
   "sub": "",
   "jan": "4948872417075",
-  "buy": 206200,
+  "buy": 207200,
   "buy_used": null,
   "remarks": "来店+300"
  },
@@ -40,7 +58,7 @@
   "name": "Steam Controller",
   "sub": "",
   "jan": "0814585022803",
-  "buy": 21700,
+  "buy": 21800,
   "buy_used": null,
   "remarks": "未開封"
  },
@@ -49,7 +67,7 @@
   "name": "Steam Deck OLED 512GB",
   "sub": "",
   "jan": "0814585022254",
-  "buy": 136700,
+  "buy": 136800,
   "buy_used": null,
   "remarks": "来店+200\r\nJAN:0814585022605同額"
  },
@@ -70,15 +88,6 @@
   "buy": 2580,
   "buy_used": null,
   "remarks": "使用期限残り16ヶ月以上"
- },
- {
-  "id": "S008185",
-  "name": "New Kindle Paperwhite 16GB ブラック 2024年発売",
-  "sub": "",
-  "jan": "0840268942847",
-  "buy": 24500,
-  "buy_used": null,
-  "remarks": "アカウント登録済みは買取不可"
  },
  {
   "id": "S012097",
@@ -121,16 +130,7 @@
   "name": "Nintendo Switch 2 多言語対応版",
   "sub": "",
   "jan": "4902370552683",
-  "buy": 82300,
-  "buy_used": null,
-  "remarks": "来店+200"
- },
- {
-  "id": "S009801",
-  "name": "Nintendo Switch 2 国内版",
-  "sub": "",
-  "jan": "4902370553024",
-  "buy": 51000,
+  "buy": 82000,
   "buy_used": null,
   "remarks": "来店+200"
  },
@@ -216,20 +216,11 @@
   "remarks": ""
  },
  {
-  "id": "S010148",
-  "name": "Samsung microSD Express Card 256GB for Nintendo Switch 2",
-  "sub": "",
-  "jan": "8806095700670",
-  "buy": 6700,
-  "buy_used": null,
-  "remarks": ""
- },
- {
   "id": "S001303",
   "name": "Nintendo Switch (有機ELモデル) ホワイト",
   "sub": "",
   "jan": "4902370548495",
-  "buy": 42500,
+  "buy": 42000,
   "buy_used": null,
   "remarks": "来店+200"
  },
@@ -463,7 +454,7 @@
   "name": "PlayStation 5 デジタル・エディション 日本語専用 DualSense ダブルパック CFIJ-10032",
   "sub": "",
   "jan": "4948872850599",
-  "buy": 58500,
+  "buy": 58600,
   "buy_used": null,
   "remarks": ""
  },
@@ -472,7 +463,7 @@
   "name": "PlayStation 5 デジタル・エディション 日本語専用 CFI-2200B01 [825GB]",
   "sub": "",
   "jan": "4948872417419",
-  "buy": 50800,
+  "buy": 50900,
   "buy_used": null,
   "remarks": "来店+300"
  },
@@ -490,7 +481,7 @@
   "name": "PlayStation 5 Pro CFI-7000B01 2TB",
   "sub": "",
   "jan": "4948872416320",
-  "buy": 206200,
+  "buy": 207200,
   "buy_used": null,
   "remarks": "来店+300"
  },
@@ -1012,7 +1003,7 @@
   "name": "Xbox Elite ワイヤレス コントローラー シリーズ 2 FST-00009",
   "sub": "",
   "jan": "4549576126906",
-  "buy": 19000,
+  "buy": 19100,
   "buy_used": null,
   "remarks": ""
  },
@@ -2614,7 +2605,7 @@
   "name": "CANON PowerShot SX740 HS ブラック",
   "sub": "",
   "jan": "4549292119008",
-  "buy": 82000,
+  "buy": 80500,
   "buy_used": null,
   "remarks": "印あり-3000"
  },
@@ -4005,6 +3996,15 @@
   "remarks": "アカウント登録済みは買取不可"
  },
  {
+  "id": "S008185",
+  "name": "New Kindle Paperwhite 16GB ブラック 2024年発売",
+  "sub": "",
+  "jan": "0840268942847",
+  "buy": 24500,
+  "buy_used": null,
+  "remarks": "アカウント登録済みは買取不可"
+ },
+ {
   "id": "S008186",
   "name": "New Kindle Paperwhite シグニチャーエディション 32GB メタリックジェード",
   "sub": "2024年発売",
@@ -4126,7 +4126,7 @@
   "name": "パナソニック バイタリフト RF EX EH-SR86-T [ブラウン]",
   "sub": "",
   "jan": "4549980809587",
-  "buy": 62500,
+  "buy": 62000,
   "buy_used": null,
   "remarks": ""
  },
@@ -4207,7 +4207,7 @@
   "name": "Fire TV Stick 4K Select 2026年発売",
   "sub": "",
   "jan": "0840414696372",
-  "buy": 3400,
+  "buy": 3700,
   "buy_used": null,
   "remarks": "アカウント登録済みおよび盗難報告品買取不可"
  },
@@ -7204,7 +7204,7 @@
   "name": "Apple Watch Series 12 GPSモデル 42mm MJED4X/A [ライトゴールド・サンドスポーツバンド S/M]",
   "sub": "",
   "jan": "4549995737073",
-  "buy": 58500,
+  "buy": 60500,
   "buy_used": null,
   "remarks": ""
  },
@@ -7213,7 +7213,7 @@
   "name": "Apple Watch Series 12 GPSモデル 42mm MJEE4X/A [ライトゴールド・サンドスポーツバンド M/L]",
   "sub": "",
   "jan": "4549995737080",
-  "buy": 58500,
+  "buy": 60500,
   "buy_used": null,
   "remarks": ""
  },
@@ -7222,7 +7222,7 @@
   "name": "Apple Watch Series 12 GPSモデル 42mm MJEA4X/A [ブラック・ブラックスポーツバンド S/M]",
   "sub": "",
   "jan": "4549995737059",
-  "buy": 58500,
+  "buy": 60500,
   "buy_used": null,
   "remarks": ""
  },
@@ -7231,7 +7231,7 @@
   "name": "Apple Watch Series 12 GPSモデル 42mm MJEC4X/A [ブラック・ブラックスポーツバンド M/L]",
   "sub": "",
   "jan": "4549995737066",
-  "buy": 58500,
+  "buy": 60500,
   "buy_used": null,
   "remarks": ""
  },
@@ -7240,7 +7240,7 @@
   "name": "Apple Watch Series 12 GPSモデル 42mm MJE74X/A [スペースグレイ・ネイビーブルースポーツバンド S/M]",
   "sub": "",
   "jan": "4549995737035",
-  "buy": 58500,
+  "buy": 60500,
   "buy_used": null,
   "remarks": ""
  },
@@ -7249,7 +7249,7 @@
   "name": "Apple Watch Series 12 GPSモデル 42mm MJE94X/A [スペースグレイ・ネイビーブルースポーツバンド M/L]",
   "sub": "",
   "jan": "4549995737042",
-  "buy": 58500,
+  "buy": 60500,
   "buy_used": null,
   "remarks": ""
  },
@@ -7258,7 +7258,7 @@
   "name": "Apple Watch Series 12 GPSモデル 42mm MJEF4X/A [ダークブロンズ・オリーブスポーツバンド S/M]",
   "sub": "",
   "jan": "4549995737097",
-  "buy": 58500,
+  "buy": 60500,
   "buy_used": null,
   "remarks": ""
  },
@@ -7267,7 +7267,7 @@
   "name": "Apple Watch Series 12 GPSモデル 42mm MJEG4X/A [ダークブロンズ・オリーブスポーツバンド M/L]",
   "sub": "",
   "jan": "4549995737103",
-  "buy": 58500,
+  "buy": 60500,
   "buy_used": null,
   "remarks": ""
  },
@@ -7276,7 +7276,7 @@
   "name": "Apple Watch Series 12 GPSモデル 42mm MKDC4X/A [ダークブロンズ・ダークブロンズミラネーゼループ]",
   "sub": "",
   "jan": "4549995737875",
-  "buy": 58500,
+  "buy": 60500,
   "buy_used": null,
   "remarks": ""
  },
@@ -7285,7 +7285,7 @@
   "name": "Apple Watch Series 12 GPSモデル 46mm MJEN4X/A [ライトゴールド・サンドスポーツバンド S/M]",
   "sub": "",
   "jan": "4549995737158",
-  "buy": 63500,
+  "buy": 66500,
   "buy_used": null,
   "remarks": ""
  },
@@ -7294,7 +7294,7 @@
   "name": "Apple Watch Series 12 GPSモデル 46mm MJEP4X/A [ライトゴールド・サンドスポーツバンド M/L]",
   "sub": "",
   "jan": "4549995737165",
-  "buy": 63500,
+  "buy": 66500,
   "buy_used": null,
   "remarks": ""
  },
@@ -7303,7 +7303,7 @@
   "name": "Apple Watch Series 12 GPSモデル 46mm MJEK4X/A [ブラック・ブラックスポーツバンド S/M]",
   "sub": "",
   "jan": "4549995737134",
-  "buy": 63500,
+  "buy": 66500,
   "buy_used": null,
   "remarks": ""
  },
@@ -7312,7 +7312,7 @@
   "name": "Apple Watch Series 12 GPSモデル 46mm MJEL4X/A [ブラック・ブラックスポーツバンド M/L]",
   "sub": "",
   "jan": "4549995737141",
-  "buy": 63500,
+  "buy": 66500,
   "buy_used": null,
   "remarks": ""
  },
@@ -7321,7 +7321,7 @@
   "name": "Apple Watch Series 12 GPSモデル 46mm MJEH4X/A [スペースグレイ・ネイビーブルースポーツバンド S/M]",
   "sub": "",
   "jan": "4549995737110",
-  "buy": 63500,
+  "buy": 66500,
   "buy_used": null,
   "remarks": ""
  },
@@ -7330,7 +7330,7 @@
   "name": "Apple Watch Series 12 GPSモデル 46mm MJEJ4X/A [スペースグレイ・ネイビーブルースポーツバンド M/L]",
   "sub": "",
   "jan": "4549995737127",
-  "buy": 63500,
+  "buy": 66500,
   "buy_used": null,
   "remarks": ""
  },
@@ -7339,7 +7339,7 @@
   "name": "Apple Watch Series 12 GPSモデル 46mm MJEQ4X/A [ダークブロンズ・オリーブスポーツバンド S/M]",
   "sub": "",
   "jan": "4549995737172",
-  "buy": 63500,
+  "buy": 66500,
   "buy_used": null,
   "remarks": ""
  },
@@ -7348,7 +7348,7 @@
   "name": "Apple Watch Series 12 GPSモデル 46mm MJEU4X/A [ダークブロンズ・オリーブスポーツバンド M/L]",
   "sub": "",
   "jan": "4549995737189",
-  "buy": 63500,
+  "buy": 66500,
   "buy_used": null,
   "remarks": ""
  },
@@ -7357,7 +7357,7 @@
   "name": "Apple Watch Series 12 GPSモデル 46mm MKD74X/A [ダークブロンズ・ダークブロンズミラネーゼループ S/M]",
   "sub": "",
   "jan": "4549995737851",
-  "buy": 63500,
+  "buy": 66500,
   "buy_used": null,
   "remarks": ""
  },
@@ -7366,7 +7366,7 @@
   "name": "Apple Watch Series 12 GPSモデル 46mm MKD84X/A [ダークブロンズ・ダークブロンズミラネーゼループ M/L]",
   "sub": "",
   "jan": "4549995737868",
-  "buy": 63500,
+  "buy": 66500,
   "buy_used": null,
   "remarks": ""
  },
@@ -8060,6 +8060,24 @@
   "sub": "",
   "jan": "4549995664669",
   "buy": 112000,
+  "buy_used": null,
+  "remarks": ""
+ },
+ {
+  "id": "S014055",
+  "name": "MHWT4J/A MacBook Pro 14.2インチ Liquid Retina XDRディスプレイ スペースブラック",
+  "sub": "16G+1TB M6",
+  "jan": "4549995684728",
+  "buy": 288000,
+  "buy_used": null,
+  "remarks": ""
+ },
+ {
+  "id": "S014056",
+  "name": "MHWW4J/A MacBook Pro 14.2インチ Liquid Retina XDRディスプレイ シルバー",
+  "sub": "16G+1TB M6",
+  "jan": "4549995684780",
+  "buy": 288000,
   "buy_used": null,
   "remarks": ""
  },
@@ -9797,6 +9815,24 @@
   "sub": "",
   "jan": "753759375683",
   "buy": 28000,
+  "buy_used": null,
+  "remarks": ""
+ },
+ {
+  "id": "S014076",
+  "name": "ガーミン Approach S72 47mm [Black/Red]",
+  "sub": "",
+  "jan": "753759380625",
+  "buy": 85000,
+  "buy_used": null,
+  "remarks": ""
+ },
+ {
+  "id": "S014077",
+  "name": "ガーミン Approach S72 47mm [Fog Gray/Citron]",
+  "sub": "",
+  "jan": "753759380632",
+  "buy": 85000,
   "buy_used": null,
   "remarks": ""
  },
@@ -11893,7 +11929,7 @@
   "name": "象印 極め炊き NV-KA10-BA [ブラック]",
   "sub": "",
   "jan": "4974305232366",
-  "buy": 17500,
+  "buy": 16500,
   "buy_used": null,
   "remarks": ""
  },
@@ -11902,7 +11938,7 @@
   "name": "象印 極め炊き NV-KA10-WA [ホワイト]",
   "sub": "",
   "jan": "4974305232373",
-  "buy": 17500,
+  "buy": 17000,
   "buy_used": null,
   "remarks": ""
  },
@@ -12811,7 +12847,7 @@
   "name": "ブラウン NEVO 11000C [シルバー]",
   "sub": "",
   "jan": "4987176325228",
-  "buy": 57000,
+  "buy": 55000,
   "buy_used": null,
   "remarks": ""
  },
@@ -14611,7 +14647,7 @@
   "name": "ブッシュネル PINSEEKER PRO X3 PLUS JOLT",
   "sub": "",
   "jan": "4580313182694",
-  "buy": 39000,
+  "buy": 37000,
   "buy_used": null,
   "remarks": ""
  },
