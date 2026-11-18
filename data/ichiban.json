@@ -13,7 +13,7 @@
   "name": "Nintendo Switch 2 国内版",
   "sub": "",
   "jan": "4902370553024",
-  "buy": 51800,
+  "buy": 52500,
   "buy_used": null,
   "remarks": "来店+200"
  },
@@ -22,7 +22,7 @@
   "name": "Samsung microSD Express Card 256GB for Nintendo Switch 2",
   "sub": "",
   "jan": "8806095700670",
-  "buy": 6700,
+  "buy": 7000,
   "buy_used": null,
   "remarks": ""
  },
@@ -31,7 +31,7 @@
   "name": "Nintendo Switch Lite グレー",
   "sub": "",
   "jan": "4902370542929",
-  "buy": 26500,
+  "buy": 27100,
   "buy_used": null,
   "remarks": "来店+100"
  },
@@ -40,16 +40,25 @@
   "name": "PlayStation 5 Pro CFI-7100B01 2TB 2025版",
   "sub": "",
   "jan": "4948872417075",
-  "buy": 207200,
+  "buy": 210000,
   "buy_used": null,
   "remarks": "来店+300"
+ },
+ {
+  "id": "S000998",
+  "name": "Xbox series x",
+  "sub": "",
+  "jan": "4549576275383",
+  "buy": 121800,
+  "buy_used": null,
+  "remarks": "来店+200\r\nJAN:4549576161617同額"
  },
  {
   "id": "S004376",
   "name": "Meta Quest 3 512GB",
   "sub": "",
   "jan": "815820024170",
-  "buy": 91800,
+  "buy": 92400,
   "buy_used": null,
   "remarks": "来店+200"
  },
@@ -58,7 +67,7 @@
   "name": "Steam Controller",
   "sub": "",
   "jan": "0814585022803",
-  "buy": 21800,
+  "buy": 22300,
   "buy_used": null,
   "remarks": "未開封"
  },
@@ -67,16 +76,25 @@
   "name": "Steam Deck OLED 512GB",
   "sub": "",
   "jan": "0814585022254",
-  "buy": 136800,
+  "buy": 138800,
   "buy_used": null,
   "remarks": "来店+200\r\nJAN:0814585022605同額"
  },
  {
-  "id": "S013712",
-  "name": "ゼルダの伝説 時のオカリナ/Switch 2",
+  "id": "S010134",
+  "name": "ゼルダの伝説 ブレス オブ ザ ワイルド/Switch 2",
   "sub": "",
-  "jan": "4902370554922",
-  "buy": 7200,
+  "jan": "4902370553291",
+  "buy": 6900,
+  "buy_used": null,
+  "remarks": ""
+ },
+ {
+  "id": "S011812",
+  "name": "あつまれ どうぶつの森 /Switch 2",
+  "sub": "",
+  "jan": "4902370553901",
+  "buy": 5500,
   "buy_used": null,
   "remarks": ""
  },
@@ -90,20 +108,11 @@
   "remarks": "使用期限残り16ヶ月以上"
  },
  {
-  "id": "S012097",
-  "name": "SpaceX 02535001 Starlink Mini WiFiルーター内蔵 スターリンクミニ",
-  "sub": "",
-  "jan": "0850049670302",
-  "buy": 37000,
-  "buy_used": null,
-  "remarks": "新品未開封、アカウント紐づけ解除品のみ買取、来店+200"
- },
- {
   "id": "S013812",
   "name": "Nintendo Switch 2 ゼルダの伝説 40周年 アニバーサリーエディション 国内版",
   "sub": "",
   "jan": "4902370554595",
-  "buy": 56500,
+  "buy": 54500,
   "buy_used": null,
   "remarks": ""
  },
@@ -112,7 +121,7 @@
   "name": "Nintendo Switch 2 スプラトゥーン レイダース セット 国内版",
   "sub": "",
   "jan": "4902370554779",
-  "buy": 54500,
+  "buy": 54000,
   "buy_used": null,
   "remarks": ""
  },
@@ -139,7 +148,7 @@
   "name": "Nintendo Switch 2 マリオカート ワールド セット 国内版",
   "sub": "",
   "jan": "4902370553031",
-  "buy": 58300,
+  "buy": 58500,
   "buy_used": null,
   "remarks": "来店+200"
  },
@@ -157,7 +166,7 @@
   "name": "Nintendo Switch 2 Proコントローラー",
   "sub": "",
   "jan": "4902370552843",
-  "buy": 8500,
+  "buy": 8600,
   "buy_used": null,
   "remarks": ""
  },
@@ -166,7 +175,7 @@
   "name": "Nintendo Switch Joy-Con 2 (L)/(R)  ブルー/ライトイエロー BEE-A-JACAC",
   "sub": "",
   "jan": "4902370554205",
-  "buy": 7800,
+  "buy": 8100,
   "buy_used": null,
   "remarks": ""
  },
@@ -175,7 +184,7 @@
   "name": "Nintendo Switch Joy-Con 2 (L)/(R) ライトブルー/ライトレッド BEE-A-JAAAA",
   "sub": "",
   "jan": "4902370552744",
-  "buy": 7800,
+  "buy": 7900,
   "buy_used": null,
   "remarks": ""
  },
@@ -184,7 +193,7 @@
   "name": "Nintendo Switch Joy-Con 2 (L)/(R) ライトパープル/ライトグリーン BEE-A-JABAB",
   "sub": "",
   "jan": "4902370553871",
-  "buy": 7800,
+  "buy": 8200,
   "buy_used": null,
   "remarks": ""
  },
@@ -220,9 +229,9 @@
   "name": "Nintendo Switch (有機ELモデル) ホワイト",
   "sub": "",
   "jan": "4902370548495",
-  "buy": 42000,
+  "buy": 41500,
   "buy_used": null,
-  "remarks": "来店+200"
+  "remarks": ""
  },
  {
   "id": "S001304",
@@ -238,7 +247,7 @@
   "name": "Nintendo Switch Joy-Con(L) ネオンブルー/(R) ネオンレッド　新型",
   "sub": "HAD-S-KABAH",
   "jan": "4902370550733",
-  "buy": 38700,
+  "buy": 39000,
   "buy_used": null,
   "remarks": "来店+200"
  },
@@ -310,7 +319,7 @@
   "name": "Nintendo Switch Lite ターコイズ",
   "sub": "",
   "jan": "4902370542943",
-  "buy": 26300,
+  "buy": 27100,
   "buy_used": null,
   "remarks": "来店+100"
  },
@@ -319,7 +328,7 @@
   "name": "Nintendo Switch Lite コーラル",
   "sub": "",
   "jan": "4902370545302",
-  "buy": 26500,
+  "buy": 27500,
   "buy_used": null,
   "remarks": "来店+100"
  },
@@ -328,7 +337,7 @@
   "name": "Nintendo Switch Lite イエロー",
   "sub": "",
   "jan": "4902370542936",
-  "buy": 26500,
+  "buy": 27500,
   "buy_used": null,
   "remarks": "来店+100"
  },
@@ -337,7 +346,7 @@
   "name": "Nintendo Switch Lite ブルー",
   "sub": "",
   "jan": "4902370547672",
-  "buy": 26500,
+  "buy": 27500,
   "buy_used": null,
   "remarks": "来店+100"
  },
@@ -450,22 +459,22 @@
   "remarks": ""
  },
  {
-  "id": "S012455",
-  "name": "PlayStation 5 デジタル・エディション 日本語専用 DualSense ダブルパック CFIJ-10032",
-  "sub": "",
-  "jan": "4948872850599",
-  "buy": 58600,
-  "buy_used": null,
-  "remarks": ""
- },
- {
   "id": "S011198",
   "name": "PlayStation 5 デジタル・エディション 日本語専用 CFI-2200B01 [825GB]",
   "sub": "",
   "jan": "4948872417419",
-  "buy": 50900,
+  "buy": 50500,
   "buy_used": null,
-  "remarks": "来店+300"
+  "remarks": "来店+300\r\n【シリアル番号の確認方法】\r\n◆ 製造年（6桁目）： 「5」→ 2025年製 ／ 「6」→ 2026年製\r\n◆ 製造月（7桁目）： 「1」～「9」→ 1月～9月製 ／ 「A」→ 10月製 ／ 「B」→ 11月製 ／ 「C」→ 12月製"
+ },
+ {
+  "id": "S012455",
+  "name": "PlayStation 5 デジタル・エディション 日本語専用 DualSense ダブルパック CFIJ-10032",
+  "sub": "",
+  "jan": "4948872850599",
+  "buy": 58000,
+  "buy_used": null,
+  "remarks": ""
  },
  {
   "id": "S010887",
@@ -481,7 +490,7 @@
   "name": "PlayStation 5 Pro CFI-7000B01 2TB",
   "sub": "",
   "jan": "4948872416320",
-  "buy": 207200,
+  "buy": 210000,
   "buy_used": null,
   "remarks": "来店+300"
  },
@@ -499,7 +508,7 @@
   "name": "PS5 ディスクドライブ(Slimモデル用) CFI-ZDD1J",
   "sub": "",
   "jan": "4948872416030",
-  "buy": 9500,
+  "buy": 9000,
   "buy_used": null,
   "remarks": ""
  },
@@ -508,7 +517,7 @@
   "name": "PlayStation 5 デジタル・エディション slim CFI-2000B01",
   "sub": "",
   "jan": "4948872415910",
-  "buy": 108400,
+  "buy": 108000,
   "buy_used": null,
   "remarks": "来店+300"
  },
@@ -544,7 +553,7 @@
   "name": "PS5 ワイヤレスコントローラー \"007 First Light\" リミテッドエディション CFI-ZCT2JZF",
   "sub": "",
   "jan": "4948872417433",
-  "buy": 10000,
+  "buy": 9500,
   "buy_used": null,
   "remarks": ""
  },
@@ -553,7 +562,7 @@
   "name": "PlayStation VR2 CFIJ-17000",
   "sub": "",
   "jan": "4948872016490",
-  "buy": 47200,
+  "buy": 46500,
   "buy_used": null,
   "remarks": "来店+200"
  },
@@ -562,7 +571,7 @@
   "name": "PlayStation VR2 \"Horizon Call of the Mountain\" 同梱版 CFIJ-17001",
   "sub": "",
   "jan": "4948872016612",
-  "buy": 47200,
+  "buy": 46500,
   "buy_used": null,
   "remarks": "来店+200"
  },
@@ -571,7 +580,7 @@
   "name": "PlayStation Portal リモートプレーヤー CFIJ-18000",
   "sub": "",
   "jan": "4948872017084",
-  "buy": 32200,
+  "buy": 32900,
   "buy_used": null,
   "remarks": ""
  },
@@ -580,7 +589,7 @@
   "name": "PlayStation Portal リモートプレーヤー ミッドナイト ブラック CFIJ-18001",
   "sub": "",
   "jan": "4948872017251",
-  "buy": 32800,
+  "buy": 33200,
   "buy_used": null,
   "remarks": ""
  },
@@ -598,7 +607,7 @@
   "name": "PS5 ワイヤレスコントローラー \"Marathon\" リミテッドエディション CFI-ZCT1JZD",
   "sub": "",
   "jan": "4948872417167",
-  "buy": 9000,
+  "buy": 8300,
   "buy_used": null,
   "remarks": ""
  },
@@ -616,7 +625,7 @@
   "name": "PS5 ワイヤレスコントローラー Ghost of Yotei ブラック リミテッドエディション CFI-ZCT1JZ8",
   "sub": "",
   "jan": "4948872416788",
-  "buy": 9700,
+  "buy": 10100,
   "buy_used": null,
   "remarks": ""
  },
@@ -625,7 +634,7 @@
   "name": "PS5 ワイヤレスコントローラー Ghost of Yotei ゴールド リミテッドエディション CFI-ZCT1JZ7",
   "sub": "リミテッドエディション",
   "jan": "4948872416801",
-  "buy": 9500,
+  "buy": 10000,
   "buy_used": null,
   "remarks": ""
  },
@@ -643,7 +652,7 @@
   "name": "PS5 ワイヤレスコントローラー モンスターハンターワイルズ リミテッドエディション",
   "sub": "CFI-ZCT1JZ5",
   "jan": "4948872416726",
-  "buy": 9500,
+  "buy": 8300,
   "buy_used": null,
   "remarks": ""
  },
@@ -652,7 +661,7 @@
   "name": "PS5 ワイヤレスコントローラー　クロマ グリーン　CFI-ZCT1J10",
   "sub": "",
   "jan": "4948872416412",
-  "buy": 9300,
+  "buy": 8300,
   "buy_used": null,
   "remarks": "JAN:4948872417389同額"
  },
@@ -661,7 +670,7 @@
   "name": "PS5 ワイヤレスコントローラー　クロマ インディゴ　CFI-ZCT1J11",
   "sub": "",
   "jan": "4948872416399",
-  "buy": 9300,
+  "buy": 8300,
   "buy_used": null,
   "remarks": "JAN:4948872417365同額"
  },
@@ -679,7 +688,7 @@
   "name": "PS5 ワイヤレスコントローラー　クロマ パール　CFI-ZCT1J12",
   "sub": "",
   "jan": "4948872416375",
-  "buy": 9300,
+  "buy": 8300,
   "buy_used": null,
   "remarks": "JAN:4948872417341同額"
  },
@@ -706,7 +715,7 @@
   "name": "PS5 ワイヤレスコントローラー スターリング シルバー CFI-ZCT1J08",
   "sub": "",
   "jan": "4948872415644",
-  "buy": 9300,
+  "buy": 8300,
   "buy_used": null,
   "remarks": ""
  },
@@ -715,7 +724,7 @@
   "name": "PS5 ワイヤレスコントローラー コバルト ブルー CFI-ZCT1J09",
   "sub": "",
   "jan": "4948872416139",
-  "buy": 9100,
+  "buy": 8300,
   "buy_used": null,
   "remarks": ""
  },
@@ -724,7 +733,7 @@
   "name": "PS5 ワイヤレスコントローラー ヴォルカニック レッド CFI-ZCT1J07",
   "sub": "",
   "jan": "4948872415668",
-  "buy": 9300,
+  "buy": 8300,
   "buy_used": null,
   "remarks": ""
  },
@@ -733,7 +742,7 @@
   "name": "PS5 ワイヤレスコントローラー ブラック",
   "sub": "CFI-ZCT1J01",
   "jan": "4948872415163",
-  "buy": 9000,
+  "buy": 8300,
   "buy_used": null,
   "remarks": "JAN:4948872417242同額"
  },
@@ -742,7 +751,7 @@
   "name": "PS5 ワイヤレスコントローラー ノヴァ ピンク",
   "sub": "CFI-ZCT1J03",
   "jan": "4948872415293",
-  "buy": 9300,
+  "buy": 8300,
   "buy_used": null,
   "remarks": "JAN:4948872417204同額"
  },
@@ -751,7 +760,7 @@
   "name": "PS5 ワイヤレスコントローラー グレー カモフラージュ",
   "sub": "CFI-ZCT1J06",
   "jan": "4948872415682",
-  "buy": 9300,
+  "buy": 8300,
   "buy_used": null,
   "remarks": "JAN:4948872417402同額"
  },
@@ -760,7 +769,7 @@
   "name": "PS5 ワイヤレスコントローラー スターライト ブルー CFI-ZCT1J05",
   "sub": "",
   "jan": "4948872415286",
-  "buy": 9300,
+  "buy": 8300,
   "buy_used": null,
   "remarks": "JAN:4948872417266同額"
  },
@@ -769,7 +778,7 @@
   "name": "PS5 ワイヤレスコントローラー レッド CFI-ZCT1J02",
   "sub": "",
   "jan": "4948872415187",
-  "buy": 9300,
+  "buy": 8300,
   "buy_used": null,
   "remarks": "JAN:4948872417228同額"
  },
@@ -778,7 +787,7 @@
   "name": "PS5 ワイヤレスコントローラー ギャラクティック パープル CFI-ZCT1J04",
   "sub": "",
   "jan": "4948872415279",
-  "buy": 9300,
+  "buy": 8300,
   "buy_used": null,
   "remarks": "JAN:4948872417280同額"
  },
@@ -787,7 +796,7 @@
   "name": "PS5 ワイヤレスコントローラー ホワイト CFI-ZCT1J",
   "sub": "",
   "jan": "4948872414975",
-  "buy": 9000,
+  "buy": 8300,
   "buy_used": null,
   "remarks": "JAN:4948872417303同額"
  },
@@ -886,7 +895,7 @@
   "name": "PS5 ワイヤレスコントローラー アストロボット ジョイフル リミテッドエディション",
   "sub": "CFI-ZCT1JZC",
   "jan": "4948872417051",
-  "buy": 9300,
+  "buy": 8300,
   "buy_used": null,
   "remarks": ""
  },
@@ -895,7 +904,7 @@
   "name": "PS5 ワイヤレスコントローラー テクノ レッド CFI-ZCT2J13",
   "sub": "",
   "jan": "4948872417143",
-  "buy": 9200,
+  "buy": 8300,
   "buy_used": null,
   "remarks": ""
  },
@@ -904,7 +913,7 @@
   "name": "PS5 ワイヤレスコントローラー リミックス グリーン CFI-ZCT2J14",
   "sub": "",
   "jan": "4948872417129",
-  "buy": 9200,
+  "buy": 8300,
   "buy_used": null,
   "remarks": ""
  },
@@ -913,7 +922,7 @@
   "name": "PS5 ワイヤレスコントローラー リズム ブルー CFI-ZCT2J15",
   "sub": "",
   "jan": "4948872417105",
-  "buy": 9200,
+  "buy": 8300,
   "buy_used": null,
   "remarks": ""
  },
@@ -931,18 +940,9 @@
   "name": "Xbox Series X デジタル エディション 1TB ロボット ホワイト　EP2-00708",
   "sub": "",
   "jan": "4549576247038",
-  "buy": 112500,
+  "buy": 110200,
   "buy_used": null,
   "remarks": "来店+200"
- },
- {
-  "id": "S000998",
-  "name": "Xbox series x",
-  "sub": "",
-  "jan": "4549576275383",
-  "buy": 123000,
-  "buy_used": null,
-  "remarks": "来店+200\r\nJAN:4549576161617同額"
  },
  {
   "id": "S004128",
@@ -970,6 +970,15 @@
   "buy": 79800,
   "buy_used": null,
   "remarks": "来店+200"
+ },
+ {
+  "id": "S014093",
+  "name": "XBOX Nano コントローラー",
+  "sub": "",
+  "jan": "4549576282695",
+  "buy": 6500,
+  "buy_used": null,
+  "remarks": ""
  },
  {
   "id": "S003708",
@@ -1003,7 +1012,7 @@
   "name": "Xbox Elite ワイヤレス コントローラー シリーズ 2 FST-00009",
   "sub": "",
   "jan": "4549576126906",
-  "buy": 19100,
+  "buy": 19300,
   "buy_used": null,
   "remarks": ""
  },
@@ -1048,7 +1057,7 @@
   "name": "Meta Quest 3S 128GB",
   "sub": "",
   "jan": "815820025238",
-  "buy": 47700,
+  "buy": 48300,
   "buy_used": null,
   "remarks": "来店+200"
  },
@@ -1066,7 +1075,7 @@
   "name": "Steam Machine 512GB",
   "sub": "",
   "jan": "0814585023510",
-  "buy": 165000,
+  "buy": 160000,
   "buy_used": null,
   "remarks": "未開封"
  },
@@ -1111,7 +1120,7 @@
   "name": "Steam Deck OLED 1TB",
   "sub": "",
   "jan": "0814585022308",
-  "buy": 163300,
+  "buy": 164800,
   "buy_used": null,
   "remarks": "来店+200\r\nJAN:0814585022629同額"
  },
@@ -1152,11 +1161,20 @@
   "remarks": "シュリンク付き"
  },
  {
+  "id": "S013712",
+  "name": "ゼルダの伝説 時のオカリナ/Switch 2",
+  "sub": "",
+  "jan": "4902370554922",
+  "buy": 7200,
+  "buy_used": null,
+  "remarks": ""
+ },
+ {
   "id": "S013911",
   "name": "Nintendo Switch Sports Resort/Switch 2",
   "sub": "",
   "jan": "4902370554892",
-  "buy": 5000,
+  "buy": 5300,
   "buy_used": null,
   "remarks": ""
  },
@@ -1165,7 +1183,7 @@
   "name": "ファイアーエムブレム 万紫千紅/Switch 2",
   "sub": "",
   "jan": "4902370554472",
-  "buy": 7800,
+  "buy": 7900,
   "buy_used": null,
   "remarks": ""
  },
@@ -1192,7 +1210,7 @@
   "name": "マリオカート ワールド/Switch 2",
   "sub": "",
   "jan": "4902370553260",
-  "buy": 7400,
+  "buy": 7600,
   "buy_used": null,
   "remarks": ""
  },
@@ -1201,7 +1219,7 @@
   "name": "ぽこ あ ポケモン/Switch 2",
   "sub": "",
   "jan": "4521329460420",
-  "buy": 6800,
+  "buy": 6900,
   "buy_used": null,
   "remarks": ""
  },
@@ -1237,7 +1255,7 @@
   "name": "スーパーマリオブラザーズ ワンダー Nintendo Switch 2 Edition + みんなでリンリンパーク /Switch 2",
   "sub": "",
   "jan": "4902370554113",
-  "buy": 6300,
+  "buy": 6400,
   "buy_used": null,
   "remarks": ""
  },
@@ -1246,16 +1264,7 @@
   "name": "ゼルダの伝説 ティアーズ オブ ザ キングダム/Switch 2",
   "sub": "",
   "jan": "4902370553321",
-  "buy": 6900,
-  "buy_used": null,
-  "remarks": ""
- },
- {
-  "id": "S010134",
-  "name": "ゼルダの伝説 ブレス オブ ザ ワイルド/Switch 2",
-  "sub": "",
-  "jan": "4902370553291",
-  "buy": 6700,
+  "buy": 7000,
   "buy_used": null,
   "remarks": ""
  },
@@ -1282,7 +1291,7 @@
   "name": "ドンキーコング バナンザ /Switch 2",
   "sub": "",
   "jan": "4902370553413",
-  "buy": 6700,
+  "buy": 6900,
   "buy_used": null,
   "remarks": ""
  },
@@ -1291,16 +1300,7 @@
   "name": "ゼルダ無双 封印戦記/Switch 2",
   "sub": "",
   "jan": "4988615211102",
-  "buy": 6700,
-  "buy_used": null,
-  "remarks": ""
- },
- {
-  "id": "S011812",
-  "name": "あつまれ どうぶつの森 /Switch 2",
-  "sub": "",
-  "jan": "4902370553901",
-  "buy": 5400,
+  "buy": 6750,
   "buy_used": null,
   "remarks": ""
  },
@@ -1381,7 +1381,7 @@
   "name": "スーパーマリオギャラクシー+スーパーマリオギャラクシー 2",
   "sub": "",
   "jan": "4902370553611",
-  "buy": 5700,
+  "buy": 5400,
   "buy_used": null,
   "remarks": ""
  },
@@ -1426,7 +1426,7 @@
   "name": "エレクトロニック･アーツ E.AIt Takes Two",
   "sub": "",
   "jan": "4938833024404",
-  "buy": 3000,
+  "buy": 2900,
   "buy_used": null,
   "remarks": ""
  },
@@ -1624,7 +1624,7 @@
   "name": "Nintendo Switch Sports",
   "sub": "",
   "jan": "4902370549263",
-  "buy": 4000,
+  "buy": 4100,
   "buy_used": null,
   "remarks": ""
  },
@@ -1674,6 +1674,15 @@
   "remarks": ""
  },
  {
+  "id": "S013739",
+  "name": "グランド・セフト・オートVI /PS5",
+  "sub": "",
+  "jan": "4571304479312",
+  "buy": 7000,
+  "buy_used": null,
+  "remarks": ""
+ },
+ {
   "id": "S012807",
   "name": "007 ファースト・ライト/PS5",
   "sub": "",
@@ -1701,15 +1710,6 @@
   "remarks": ""
  },
  {
-  "id": "S008084",
-  "name": "SILENT HILL 2 /PS5",
-  "sub": "",
-  "jan": "4988602177602",
-  "buy": 4800,
-  "buy_used": null,
-  "remarks": ""
- },
- {
   "id": "S007620",
   "name": "黒神話：悟空/PS5",
   "sub": "",
@@ -1723,7 +1723,7 @@
   "name": "Stellar Blade /PS5",
   "sub": "",
   "jan": "4948872016858",
-  "buy": 4200,
+  "buy": 3700,
   "buy_used": null,
   "remarks": ""
  },
@@ -1737,20 +1737,38 @@
   "remarks": ""
  },
  {
-  "id": "S010924",
-  "name": "SILENT HILL f /PS5",
-  "sub": "",
-  "jan": "4988602178968",
-  "buy": 4900,
-  "buy_used": null,
-  "remarks": ""
- },
- {
   "id": "S010936",
   "name": "Ghost of Yotei/PS5",
   "sub": "",
   "jan": "4948872017305",
-  "buy": 6100,
+  "buy": 4600,
+  "buy_used": null,
+  "remarks": ""
+ },
+ {
+  "id": "S014090",
+  "name": "instax SQUARE 2 チェキ ミスティホワイト",
+  "sub": "",
+  "jan": "4547410581881",
+  "buy": 13000,
+  "buy_used": null,
+  "remarks": ""
+ },
+ {
+  "id": "S014091",
+  "name": "instax SQUARE 2 チェキ ブリックレッド",
+  "sub": "",
+  "jan": "4547410581911",
+  "buy": 13000,
+  "buy_used": null,
+  "remarks": ""
+ },
+ {
+  "id": "S014092",
+  "name": "instax SQUARE 2 チェキ スレートブルー",
+  "sub": "",
+  "jan": "4547410581942",
+  "buy": 13000,
   "buy_used": null,
   "remarks": ""
  },
@@ -1768,7 +1786,7 @@
   "name": "instax mini 13 キャンディピンク",
   "sub": "",
   "jan": "4547410564648",
-  "buy": 11300,
+  "buy": 11200,
   "buy_used": null,
   "remarks": ""
  },
@@ -1777,7 +1795,7 @@
   "name": "instax mini 13 ドリーミーパープル",
   "sub": "",
   "jan": "4547410564679",
-  "buy": 11300,
+  "buy": 11200,
   "buy_used": null,
   "remarks": ""
  },
@@ -1786,7 +1804,7 @@
   "name": "instax mini 13 フロストブルー",
   "sub": "",
   "jan": "4547410564631",
-  "buy": 11300,
+  "buy": 11200,
   "buy_used": null,
   "remarks": ""
  },
@@ -1795,7 +1813,7 @@
   "name": "instax mini 13 ラグーングリーン",
   "sub": "",
   "jan": "4547410564655",
-  "buy": 11300,
+  "buy": 11200,
   "buy_used": null,
   "remarks": ""
  },
@@ -1804,7 +1822,7 @@
   "name": "instax mini 13 クレイホワイト",
   "sub": "",
   "jan": "4547410564662",
-  "buy": 11300,
+  "buy": 11200,
   "buy_used": null,
   "remarks": ""
  },
@@ -1836,29 +1854,11 @@
   "remarks": ""
  },
  {
-  "id": "S003171",
-  "name": "FUJIFILM チェキ用フィルム 20枚入 INSTAX MINI JP 2",
-  "sub": "",
-  "jan": "4547410377231",
-  "buy": 2700,
-  "buy_used": null,
-  "remarks": "使用期限残り16ヶ月以上"
- },
- {
   "id": "S005419",
   "name": "FUJIFILM チェキ用フィルム 10枚入 INSTAX MINI JP 1",
   "sub": "",
   "jan": "4547410377224",
-  "buy": 1290,
-  "buy_used": null,
-  "remarks": "使用期限残り16ヶ月以上"
- },
- {
-  "id": "S004870",
-  "name": "FUJIFILM 写ルンです シンプルエース 27枚撮り",
-  "sub": "",
-  "jan": "4547410369137",
-  "buy": 2500,
+  "buy": 1250,
   "buy_used": null,
   "remarks": "使用期限残り16ヶ月以上"
  },
@@ -2056,7 +2056,7 @@
   "name": "instax SQUARE SQ1 チェキスクエア [チョークホワイト]",
   "sub": "",
   "jan": "4547410441536",
-  "buy": 18600,
+  "buy": 18400,
   "buy_used": null,
   "remarks": ""
  },
@@ -2065,7 +2065,7 @@
   "name": "instax SQUARE SQ1 チェキスクエア [テラコッタオレンジ]",
   "sub": "",
   "jan": "4547410441512",
-  "buy": 18600,
+  "buy": 18400,
   "buy_used": null,
   "remarks": ""
  },
@@ -2074,7 +2074,7 @@
   "name": "instax SQUARE SQ1 チェキスクエア [グレイシャーブルー]",
   "sub": "",
   "jan": "4547410441529",
-  "buy": 18600,
+  "buy": 18400,
   "buy_used": null,
   "remarks": ""
  },
@@ -2488,7 +2488,7 @@
   "name": "CANON PowerShot G7 X Mark III ブラック",
   "sub": "",
   "jan": "4549292137743",
-  "buy": 165500,
+  "buy": 167500,
   "buy_used": null,
   "remarks": "印あり-5000"
  },
@@ -2497,7 +2497,7 @@
   "name": "CANON PowerShot G7 X Mark III シルバー",
   "sub": "",
   "jan": "4549292137804",
-  "buy": 147000,
+  "buy": 150500,
   "buy_used": null,
   "remarks": "印あり-5000"
  },
@@ -2605,7 +2605,7 @@
   "name": "CANON PowerShot SX740 HS ブラック",
   "sub": "",
   "jan": "4549292119008",
-  "buy": 80500,
+  "buy": 81000,
   "buy_used": null,
   "remarks": "印あり-3000"
  },
@@ -2659,7 +2659,7 @@
   "name": "RICOH GR IIIx",
   "sub": "",
   "jan": "4549212303739",
-  "buy": 187300,
+  "buy": 186000,
   "buy_used": null,
   "remarks": "捺印なし"
  },
@@ -3136,7 +3136,7 @@
   "name": "DJI OSMO POCKET 3",
   "sub": "",
   "jan": "6941565969873",
-  "buy": 39000,
+  "buy": 41000,
   "buy_used": null,
   "remarks": "日本国内正規品、未開封、購入証明必要\r\n保証開始-3000"
  },
@@ -3154,7 +3154,7 @@
   "name": "DJI OSMO POCKET 4 クリエイターコンボ",
   "sub": "",
   "jan": "6937224133082",
-  "buy": 74500,
+  "buy": 73000,
   "buy_used": null,
   "remarks": "日本国内正規品、未開封、購入証明必要\r\n保証開始-3000"
  },
@@ -3226,7 +3226,7 @@
   "name": "Google Fitbit Edge GA11585-AU",
   "sub": "Satin Pyrite アルミケースアクティブ バンド Olive",
   "jan": "840353961715",
-  "buy": 25000,
+  "buy": 24000,
   "buy_used": null,
   "remarks": ""
  },
@@ -3235,7 +3235,7 @@
   "name": "Google Fitbit Edge GA11584-AU",
   "sub": "Silver アルミケースアクティブ バンド Fog",
   "jan": "840353961753",
-  "buy": 25000,
+  "buy": 24000,
   "buy_used": null,
   "remarks": ""
  },
@@ -3244,7 +3244,7 @@
   "name": "Google Fitbit Edge GA11586-AU",
   "sub": "Champagne Gold アルミケースアクティブ バンド Canyon",
   "jan": "840353961678",
-  "buy": 25000,
+  "buy": 24000,
   "buy_used": null,
   "remarks": ""
  },
@@ -3253,7 +3253,7 @@
   "name": "Google Fitbit Edge GA11583-AU",
   "sub": "Matte Black アルミケースアクティブ バンド Obsidian",
   "jan": "840353961791",
-  "buy": 25000,
+  "buy": 24000,
   "buy_used": null,
   "remarks": ""
  },
@@ -3262,7 +3262,7 @@
   "name": "Google Fitbit Air Sleepy Blue",
   "sub": "",
   "jan": "0840353970458",
-  "buy": 16800,
+  "buy": 16500,
   "buy_used": null,
   "remarks": ""
  },
@@ -3334,7 +3334,7 @@
   "name": "Google Fitbit Air Obsidian",
   "sub": "",
   "jan": "0840353943339",
-  "buy": 16600,
+  "buy": 16500,
   "buy_used": null,
   "remarks": ""
  },
@@ -3343,7 +3343,7 @@
   "name": "Google Fitbit Air Lavender",
   "sub": "",
   "jan": "0840353943353",
-  "buy": 16600,
+  "buy": 16500,
   "buy_used": null,
   "remarks": ""
  },
@@ -3352,7 +3352,7 @@
   "name": "Google Fitbit Air Berry",
   "sub": "",
   "jan": "0840353963986",
-  "buy": 16600,
+  "buy": 16500,
   "buy_used": null,
   "remarks": ""
  },
@@ -3361,7 +3361,7 @@
   "name": "Google Fitbit Air Fog",
   "sub": "",
   "jan": "0840353943384",
-  "buy": 16600,
+  "buy": 16500,
   "buy_used": null,
   "remarks": ""
  },
@@ -3496,7 +3496,7 @@
   "name": "MacBook Neo 13インチ Liquid Retinaディスプレイ MHFF4J/A [インディゴ]",
   "sub": "",
   "jan": "4549995664638",
-  "buy": 97000,
+  "buy": 99500,
   "buy_used": null,
   "remarks": ""
  },
@@ -3649,7 +3649,7 @@
   "name": "AirPods 5 MKFW4J/A",
   "sub": "",
   "jan": "4549995725049",
-  "buy": 18500,
+  "buy": 18000,
   "buy_used": null,
   "remarks": "保証開始-2,000，シールあり-2,000"
  },
@@ -3658,7 +3658,7 @@
   "name": "AirPods 5 ワイヤレス充電ケース付き MKFT4J/A",
   "sub": "",
   "jan": "4549995725025",
-  "buy": 22500,
+  "buy": 21500,
   "buy_used": null,
   "remarks": "保証開始-2,500，シールあり-2,500"
  },
@@ -3667,7 +3667,7 @@
   "name": "AirPods Pro 3 MFHP4J/A",
   "sub": "",
   "jan": "4549995635232",
-  "buy": 33000,
+  "buy": 32500,
   "buy_used": null,
   "remarks": "保証開始-2500"
  },
@@ -3694,7 +3694,7 @@
   "name": "AirPods Max 2 MHWK4ZA/A ミッドナイト",
   "sub": "",
   "jan": "4549995687149",
-  "buy": 62000,
+  "buy": 63000,
   "buy_used": null,
   "remarks": ""
  },
@@ -3703,7 +3703,7 @@
   "name": "AirPods Max 2 MHWM4ZA/A ブルー",
   "sub": "",
   "jan": "4549995687163",
-  "buy": 62000,
+  "buy": 63000,
   "buy_used": null,
   "remarks": ""
  },
@@ -3712,7 +3712,7 @@
   "name": "AirPods Max 2 MHWL4ZA/A スターライト",
   "sub": "",
   "jan": "4549995687156",
-  "buy": 62000,
+  "buy": 63000,
   "buy_used": null,
   "remarks": ""
  },
@@ -3721,7 +3721,7 @@
   "name": "AirPods Max 2 MHWN4ZA/A オレンジ",
   "sub": "",
   "jan": "4549995687170",
-  "buy": 62000,
+  "buy": 63000,
   "buy_used": null,
   "remarks": ""
  },
@@ -3730,7 +3730,7 @@
   "name": "AirPods Max 2 MHWP4ZA/A パープル",
   "sub": "",
   "jan": "4549995687187",
-  "buy": 62000,
+  "buy": 63000,
   "buy_used": null,
   "remarks": ""
  },
@@ -3739,7 +3739,7 @@
   "name": "SONY WF-1000XM6 BZ ブラック",
   "sub": "",
   "jan": "4548736171763",
-  "buy": 34200,
+  "buy": 33800,
   "buy_used": null,
   "remarks": ""
  },
@@ -3919,7 +3919,7 @@
   "name": "Amazon Kindle 16GB ウベパープル 2026年発売",
   "sub": "",
   "jan": "840414689626",
-  "buy": 27000,
+  "buy": 24500,
   "buy_used": null,
   "remarks": "アカウント登録済みは買取不可"
  },
@@ -3927,8 +3927,8 @@
   "id": "S013978",
   "name": "Amazon Kindle 16GB グラファイト 2026年発売",
   "sub": "",
-  "jan": "",
-  "buy": 27000,
+  "jan": "840414601390",
+  "buy": 24500,
   "buy_used": null,
   "remarks": "アカウント登録済みは買取不可"
  },
@@ -3936,8 +3936,8 @@
   "id": "S013979",
   "name": "Amazon Kindle 32GB アルペンスカイブルー 2026年発売",
   "sub": "",
-  "jan": "",
-  "buy": 30000,
+  "jan": "0840414603783",
+  "buy": 28500,
   "buy_used": null,
   "remarks": "アカウント登録済みは買取不可"
  },
@@ -3945,8 +3945,8 @@
   "id": "S013980",
   "name": "Amazon Kindle 32GB シーグラスグリーン 2026年発売",
   "sub": "",
-  "jan": "",
-  "buy": 30000,
+  "jan": "0840414659148",
+  "buy": 28500,
   "buy_used": null,
   "remarks": "アカウント登録済みは買取不可"
  },
@@ -3954,8 +3954,8 @@
   "id": "S013983",
   "name": "Amazon Kindle Paperwhite 16GB グラファイト 2026年発売",
   "sub": "",
-  "jan": "",
-  "buy": 37000,
+  "jan": "0840268907280",
+  "buy": 36000,
   "buy_used": null,
   "remarks": "アカウント登録済みは買取不可"
  },
@@ -3963,7 +3963,7 @@
   "id": "S013981",
   "name": "Amazon Kindle Paperwhite シグニチャーエディション 32GB シーグラスグリーン 2026年発売",
   "sub": "",
-  "jan": "",
+  "jan": "0840414605930",
   "buy": 39000,
   "buy_used": null,
   "remarks": "アカウント登録済みは買取不可"
@@ -3972,7 +3972,7 @@
   "id": "S013982",
   "name": "Amazon Kindle Paperwhite シグニチャーエディション 32GB グラファイト 2026年発売",
   "sub": "",
-  "jan": "",
+  "jan": "0840080548203",
   "buy": 39000,
   "buy_used": null,
   "remarks": "アカウント登録済みは買取不可"
@@ -3982,7 +3982,7 @@
   "name": "New Kindle 16GB マッチャ(2024年発売)",
   "sub": "",
   "jan": "0840414673731",
-  "buy": 17300,
+  "buy": 16500,
   "buy_used": null,
   "remarks": "アカウント登録済みは買取不可"
  },
@@ -3991,7 +3991,7 @@
   "name": "New Kindle 16GB ブラック(2024年発売)",
   "sub": "",
   "jan": "0840414617858",
-  "buy": 17300,
+  "buy": 16500,
   "buy_used": null,
   "remarks": "アカウント登録済みは買取不可"
  },
@@ -4000,7 +4000,7 @@
   "name": "New Kindle Paperwhite 16GB ブラック 2024年発売",
   "sub": "",
   "jan": "0840268942847",
-  "buy": 24500,
+  "buy": 24600,
   "buy_used": null,
   "remarks": "アカウント登録済みは買取不可"
  },
@@ -4009,7 +4009,7 @@
   "name": "New Kindle Paperwhite シグニチャーエディション 32GB メタリックジェード",
   "sub": "2024年発売",
   "jan": "0840268918132",
-  "buy": 30000,
+  "buy": 30200,
   "buy_used": null,
   "remarks": "アカウント登録済みは買取不可"
  },
@@ -4027,7 +4027,7 @@
   "name": "New Amazon Kindle Colorsoft シグニチャーエディション 32GB",
   "sub": "",
   "jan": "0840414661905",
-  "buy": 36000,
+  "buy": 34000,
   "buy_used": null,
   "remarks": "※アカウント登録済みは買取不可"
  },
@@ -4054,7 +4054,7 @@
   "name": "Dyson V12 Detect Slim Fluffy SV46 FF",
   "sub": "",
   "jan": "5025155106518",
-  "buy": 42000,
+  "buy": 41000,
   "buy_used": null,
   "remarks": "開封品買取不可"
  },
@@ -4135,7 +4135,7 @@
   "name": "Panasonic ナノケア EH-NA0K-K [チャコールブラック]",
   "sub": "",
   "jan": "4549980975022",
-  "buy": 28200,
+  "buy": 27500,
   "buy_used": null,
   "remarks": ""
  },
@@ -4144,7 +4144,7 @@
   "name": "Panasonic ナノケア EH-NA0K-P [さくらピンク]",
   "sub": "",
   "jan": "4549980975039",
-  "buy": 28200,
+  "buy": 27500,
   "buy_used": null,
   "remarks": ""
  },
@@ -4153,7 +4153,7 @@
   "name": "Panasonic ナノケア EH-NA0K-H [ミストグレー]",
   "sub": "",
   "jan": "4549980975046",
-  "buy": 28200,
+  "buy": 27500,
   "buy_used": null,
   "remarks": ""
  },
@@ -4162,7 +4162,7 @@
   "name": "パナソニック はくだけキュッとリフレ EW-RA192-H [ダークグレー]",
   "sub": "",
   "jan": "4549980860274",
-  "buy": 38500,
+  "buy": 37000,
   "buy_used": null,
   "remarks": ""
  },
@@ -4171,7 +4171,7 @@
   "name": "パナソニック ナノケア EH-NB70-P [ミスティローズ]",
   "sub": "",
   "jan": "4550719162293",
-  "buy": 34000,
+  "buy": 29000,
   "buy_used": null,
   "remarks": ""
  },
@@ -4180,9 +4180,18 @@
   "name": "SpaceX 2534013 Starlink Standard kit V4",
   "sub": "",
   "jan": "0850049670180",
-  "buy": 51000,
+  "buy": 43000,
   "buy_used": null,
   "remarks": "新品未開封、アカウント紐づけ解除品のみ買取"
+ },
+ {
+  "id": "S012097",
+  "name": "SpaceX 02535001 Starlink Mini WiFiルーター内蔵 スターリンクミニ",
+  "sub": "",
+  "jan": "0850049670302",
+  "buy": 31000,
+  "buy_used": null,
+  "remarks": "来店+200\r\n新品未開封、アカウント紐づけ解除品のみ買取"
  },
  {
   "id": "S013214",
@@ -4216,7 +4225,7 @@
   "name": "Google TV Streamer 4K  GA05662JP",
   "sub": "",
   "jan": "0810037291285",
-  "buy": 12300,
+  "buy": 13000,
   "buy_used": null,
   "remarks": ""
  },
@@ -4347,15 +4356,6 @@
   "remarks": ""
  },
  {
-  "id": "S003939",
-  "name": "象印 極め炊き NW-JY10",
-  "sub": "",
-  "jan": "4974305221766",
-  "buy": 26500,
-  "buy_used": null,
-  "remarks": ""
- },
- {
   "id": "S010877",
   "name": "象印　炎舞炊き NW-NB10-WA [ホワイト]",
   "sub": "",
@@ -4396,7 +4396,7 @@
   "name": "象印 豪熱大火力 NW-YC10-WA [ホワイト]",
   "sub": "",
   "jan": "4974305230492",
-  "buy": 28000,
+  "buy": 24500,
   "buy_used": null,
   "remarks": ""
  },
@@ -4495,7 +4495,7 @@
   "name": "パナソニック ラムダッシュ パームイン LITE ES-P330U-H [ミストグレー]",
   "sub": "",
   "jan": "4549980885512",
-  "buy": 14800,
+  "buy": 14000,
   "buy_used": null,
   "remarks": ""
  },
@@ -4855,7 +4855,7 @@
   "name": "ニコン COOLSHOT LITE STABILIZED",
   "sub": "",
   "jan": "4580130921230",
-  "buy": 28000,
+  "buy": 31500,
   "buy_used": null,
   "remarks": ""
  },
@@ -5243,15 +5243,6 @@
   "sub": "",
   "jan": "4510772240123",
   "buy": 3000,
-  "buy_used": null,
-  "remarks": ""
- },
- {
-  "id": "S009042",
-  "name": "Fit Boxing 3 -Your パーソナルトレーナ",
-  "sub": "",
-  "jan": "4965857104454",
-  "buy": 4700,
   "buy_used": null,
   "remarks": ""
  },
@@ -5810,15 +5801,6 @@
   "sub": "",
   "jan": "4548736074033",
   "buy": 163000,
-  "buy_used": null,
-  "remarks": "捺印なし"
- },
- {
-  "id": "S005231",
-  "name": "SONY α7 III ILCE-7M3K ズームレンズキット",
-  "sub": "",
-  "jan": "4548736079717",
-  "buy": 190000,
   "buy_used": null,
   "remarks": "捺印なし"
  },
@@ -6430,7 +6412,7 @@
   "name": "LUMIX DC-G100DK レンズキット",
   "sub": "",
   "jan": "4549980769485",
-  "buy": 72000,
+  "buy": 70000,
   "buy_used": null,
   "remarks": "捺印なし"
  },
@@ -7042,7 +7024,7 @@
   "name": "Apple Watch Ultra 4 GPS+Cellularモデル 49mm MJAU4X/A [ブラック・ブラックチタニウムミラネーゼループ S]",
   "sub": "",
   "jan": "4549995738001",
-  "buy": 112000,
+  "buy": 117000,
   "buy_used": null,
   "remarks": ""
  },
@@ -7051,7 +7033,7 @@
   "name": "Apple Watch Ultra 4 GPS+Cellularモデル 49mm MJAV4X/A [ブラック・ブラックチタニウムミラネーゼループ M]",
   "sub": "",
   "jan": "4549995738018",
-  "buy": 112000,
+  "buy": 117000,
   "buy_used": null,
   "remarks": ""
  },
@@ -7060,7 +7042,7 @@
   "name": "Apple Watch Ultra 4 GPS+Cellularモデル 49mm MJAX4X/A [ブラック・ブラックチタニウムミラネーゼループ L]",
   "sub": "",
   "jan": "4549995738025",
-  "buy": 112000,
+  "buy": 117000,
   "buy_used": null,
   "remarks": ""
  },
@@ -7069,7 +7051,7 @@
   "name": "Apple Watch Ultra 4 GPS+Cellularモデル 49mm MJAE4X/A [ナチュラル・デザートアルパインループ S]",
   "sub": "",
   "jan": "4549995737950",
-  "buy": 112000,
+  "buy": 117000,
   "buy_used": null,
   "remarks": ""
  },
@@ -7078,7 +7060,7 @@
   "name": "Apple Watch Ultra 4 GPS+Cellularモデル 49mm MJAF4X/A [ナチュラル・デザートアルパインループ M]",
   "sub": "",
   "jan": "4549995737967",
-  "buy": 112000,
+  "buy": 117000,
   "buy_used": null,
   "remarks": ""
  },
@@ -7087,7 +7069,7 @@
   "name": "Apple Watch Ultra 4 GPS+Cellularモデル 49mm MJAG4X/A [ナチュラル・デザートアルパインループ L]",
   "sub": "",
   "jan": "4549995737974",
-  "buy": 112000,
+  "buy": 117000,
   "buy_used": null,
   "remarks": ""
  },
@@ -7096,7 +7078,7 @@
   "name": "Apple Watch Ultra 4 GPS+Cellularモデル 49mm MJC34X/A [ブラック・バーガンディトレイルループ S/M]",
   "sub": "",
   "jan": "4549995738070",
-  "buy": 112000,
+  "buy": 117000,
   "buy_used": null,
   "remarks": ""
  },
@@ -7105,7 +7087,7 @@
   "name": "Apple Watch Ultra 4 GPS+Cellularモデル 49mm MJC44X/A [ブラック・バーガンディトレイルループ M/L]",
   "sub": "",
   "jan": "4549995738087",
-  "buy": 112000,
+  "buy": 117000,
   "buy_used": null,
   "remarks": ""
  },
@@ -7114,7 +7096,7 @@
   "name": "Apple Watch Ultra 4 GPS+Cellularモデル 49mm MJA84X/A [ナチュラル・ナチュラルチタニウムミラネーゼループ S]",
   "sub": "",
   "jan": "4549995737912",
-  "buy": 112000,
+  "buy": 117000,
   "buy_used": null,
   "remarks": ""
  },
@@ -7123,7 +7105,7 @@
   "name": "Apple Watch Ultra 4 GPS+Cellularモデル 49mm MJA94X/A [ナチュラル・ナチュラルチタニウムミラネーゼループ M]",
   "sub": "",
   "jan": "4549995737929",
-  "buy": 112000,
+  "buy": 117000,
   "buy_used": null,
   "remarks": ""
  },
@@ -7132,7 +7114,7 @@
   "name": "Apple Watch Ultra 4 GPS+Cellularモデル 49mm MJAA4X/A [ナチュラル・ナチュラルチタニウムミラネーゼループ L]",
   "sub": "",
   "jan": "4549995737936",
-  "buy": 112000,
+  "buy": 117000,
   "buy_used": null,
   "remarks": ""
  },
@@ -7141,7 +7123,7 @@
   "name": "Apple Watch Ultra 4 GPS+Cellularモデル 49mm MJC04X/A [ブラック・バーガンディアルパインループ S]",
   "sub": "",
   "jan": "4549995738049",
-  "buy": 112000,
+  "buy": 117000,
   "buy_used": null,
   "remarks": ""
  },
@@ -7150,7 +7132,7 @@
   "name": "Apple Watch Ultra 4 GPS+Cellularモデル 49mm MJC14X/A [ブラック・バーガンディアルパインループ M]",
   "sub": "",
   "jan": "4549995738056",
-  "buy": 112000,
+  "buy": 117000,
   "buy_used": null,
   "remarks": ""
  },
@@ -7159,7 +7141,7 @@
   "name": "Apple Watch Ultra 4 GPS+Cellularモデル 49mm MJC24X/A [ブラック・バーガンディアルパインループ L]",
   "sub": "",
   "jan": "4549995738063",
-  "buy": 112000,
+  "buy": 117000,
   "buy_used": null,
   "remarks": ""
  },
@@ -7168,7 +7150,7 @@
   "name": "Apple Watch Ultra 4 GPS+Cellularモデル 49mm MJAJ4X/A [ナチュラル・サンドトレイルループ S/M]",
   "sub": "",
   "jan": "4549995737981",
-  "buy": 112000,
+  "buy": 117000,
   "buy_used": null,
   "remarks": ""
  },
@@ -7177,7 +7159,7 @@
   "name": "Apple Watch Ultra 4 GPS+Cellularモデル 49mm MJAQ4X/A [ナチュラル・サンドトレイルループ M/L]",
   "sub": "",
   "jan": "4549995737998",
-  "buy": 112000,
+  "buy": 117000,
   "buy_used": null,
   "remarks": ""
  },
@@ -7186,7 +7168,7 @@
   "name": "Apple Watch Ultra 4 GPS+Cellularモデル 49mm MJAD4X/A [ナチュラル・トランスルーセントグレイオーシャンバンド]",
   "sub": "",
   "jan": "4549995737943",
-  "buy": 112000,
+  "buy": 117000,
   "buy_used": null,
   "remarks": ""
  },
@@ -7195,7 +7177,7 @@
   "name": "Apple Watch Ultra 4 GPS+Cellularモデル 49mm MJAY4X/A [ブラック・トランスルーセントブラックオーシャンバンド]",
   "sub": "",
   "jan": "4549995738032",
-  "buy": 112000,
+  "buy": 117000,
   "buy_used": null,
   "remarks": ""
  },
@@ -7204,7 +7186,7 @@
   "name": "Apple Watch Series 12 GPSモデル 42mm MJED4X/A [ライトゴールド・サンドスポーツバンド S/M]",
   "sub": "",
   "jan": "4549995737073",
-  "buy": 60500,
+  "buy": 59500,
   "buy_used": null,
   "remarks": ""
  },
@@ -7213,7 +7195,7 @@
   "name": "Apple Watch Series 12 GPSモデル 42mm MJEE4X/A [ライトゴールド・サンドスポーツバンド M/L]",
   "sub": "",
   "jan": "4549995737080",
-  "buy": 60500,
+  "buy": 59500,
   "buy_used": null,
   "remarks": ""
  },
@@ -7222,7 +7204,7 @@
   "name": "Apple Watch Series 12 GPSモデル 42mm MJEA4X/A [ブラック・ブラックスポーツバンド S/M]",
   "sub": "",
   "jan": "4549995737059",
-  "buy": 60500,
+  "buy": 59500,
   "buy_used": null,
   "remarks": ""
  },
@@ -7231,7 +7213,7 @@
   "name": "Apple Watch Series 12 GPSモデル 42mm MJEC4X/A [ブラック・ブラックスポーツバンド M/L]",
   "sub": "",
   "jan": "4549995737066",
-  "buy": 60500,
+  "buy": 59500,
   "buy_used": null,
   "remarks": ""
  },
@@ -7240,7 +7222,7 @@
   "name": "Apple Watch Series 12 GPSモデル 42mm MJE74X/A [スペースグレイ・ネイビーブルースポーツバンド S/M]",
   "sub": "",
   "jan": "4549995737035",
-  "buy": 60500,
+  "buy": 59500,
   "buy_used": null,
   "remarks": ""
  },
@@ -7249,7 +7231,7 @@
   "name": "Apple Watch Series 12 GPSモデル 42mm MJE94X/A [スペースグレイ・ネイビーブルースポーツバンド M/L]",
   "sub": "",
   "jan": "4549995737042",
-  "buy": 60500,
+  "buy": 59500,
   "buy_used": null,
   "remarks": ""
  },
@@ -7258,7 +7240,7 @@
   "name": "Apple Watch Series 12 GPSモデル 42mm MJEF4X/A [ダークブロンズ・オリーブスポーツバンド S/M]",
   "sub": "",
   "jan": "4549995737097",
-  "buy": 60500,
+  "buy": 59500,
   "buy_used": null,
   "remarks": ""
  },
@@ -7267,7 +7249,7 @@
   "name": "Apple Watch Series 12 GPSモデル 42mm MJEG4X/A [ダークブロンズ・オリーブスポーツバンド M/L]",
   "sub": "",
   "jan": "4549995737103",
-  "buy": 60500,
+  "buy": 59500,
   "buy_used": null,
   "remarks": ""
  },
@@ -7276,7 +7258,7 @@
   "name": "Apple Watch Series 12 GPSモデル 42mm MKDC4X/A [ダークブロンズ・ダークブロンズミラネーゼループ]",
   "sub": "",
   "jan": "4549995737875",
-  "buy": 60500,
+  "buy": 59500,
   "buy_used": null,
   "remarks": ""
  },
@@ -8005,7 +7987,7 @@
   "name": "MacBook Neo 13インチ Liquid Retinaディスプレイ MHFA4J/A [シルバー]",
   "sub": "",
   "jan": "4549995664591",
-  "buy": 97000,
+  "buy": 99500,
   "buy_used": null,
   "remarks": ""
  },
@@ -8014,7 +7996,7 @@
   "name": "MacBook Neo 13インチ Liquid Retinaディスプレイ MHFD4J/A [シトラス]",
   "sub": "",
   "jan": "4549995664614",
-  "buy": 98000,
+  "buy": 99500,
   "buy_used": null,
   "remarks": ""
  },
@@ -8023,7 +8005,7 @@
   "name": "MacBook Neo 13インチ Liquid Retinaディスプレイ MHFH4J/A [ブラッシュ]",
   "sub": "",
   "jan": "4549995664652",
-  "buy": 97000,
+  "buy": 99500,
   "buy_used": null,
   "remarks": ""
  },
@@ -8032,7 +8014,7 @@
   "name": "Apple MacBook Neo 13インチ Liquid Retinaディスプレイ MHFC4J/A [シルバー]",
   "sub": "",
   "jan": "4549995664607",
-  "buy": 112000,
+  "buy": 114000,
   "buy_used": null,
   "remarks": ""
  },
@@ -8041,7 +8023,7 @@
   "name": "MacBook Neo 13インチ Liquid Retinaディスプレイ MHFE4J/A [シトラス]",
   "sub": "",
   "jan": "4549995664621",
-  "buy": 112000,
+  "buy": 114000,
   "buy_used": null,
   "remarks": ""
  },
@@ -8050,7 +8032,7 @@
   "name": "MacBook Neo 13インチ Liquid Retinaディスプレイ MHFG4J/A [インディゴ]",
   "sub": "",
   "jan": "4549995664645",
-  "buy": 112000,
+  "buy": 114000,
   "buy_used": null,
   "remarks": ""
  },
@@ -8059,7 +8041,7 @@
   "name": "MacBook Neo 13インチ Liquid Retinaディスプレイ MHFJ4J/A [ブラッシュ]",
   "sub": "",
   "jan": "4549995664669",
-  "buy": 112000,
+  "buy": 114000,
   "buy_used": null,
   "remarks": ""
  },
@@ -8068,7 +8050,7 @@
   "name": "MHWT4J/A MacBook Pro 14.2インチ Liquid Retina XDRディスプレイ スペースブラック",
   "sub": "16G+1TB M6",
   "jan": "4549995684728",
-  "buy": 288000,
+  "buy": 285000,
   "buy_used": null,
   "remarks": ""
  },
@@ -8077,7 +8059,7 @@
   "name": "MHWW4J/A MacBook Pro 14.2インチ Liquid Retina XDRディスプレイ シルバー",
   "sub": "16G+1TB M6",
   "jan": "4549995684780",
-  "buy": 288000,
+  "buy": 285000,
   "buy_used": null,
   "remarks": ""
  },
@@ -8474,6 +8456,15 @@
   "sub": "",
   "jan": "4981254072905",
   "buy": 18000,
+  "buy_used": null,
+  "remarks": ""
+ },
+ {
+  "id": "S014125",
+  "name": "Speed Wi-Fi DOCK 5G 01 [ブラック]",
+  "sub": "",
+  "jan": "4941787132262",
+  "buy": 8000,
   "buy_used": null,
   "remarks": ""
  },
@@ -9184,7 +9175,7 @@
   "name": "SONY ULT WEAR WH-ULT900N (W) オフホワイト",
   "sub": "",
   "jan": "4548736158320",
-  "buy": 17000,
+  "buy": 16500,
   "buy_used": null,
   "remarks": "メーカーキャンペーン応募済み減額あり"
  },
@@ -9193,7 +9184,7 @@
   "name": "SONY ULT WEAR WH-ULT900N (B) ブラック",
   "sub": "",
   "jan": "4548736156425",
-  "buy": 16500,
+  "buy": 15500,
   "buy_used": null,
   "remarks": "メーカーキャンペーン応募済み減額あり"
  },
@@ -9202,7 +9193,7 @@
   "name": "SONY ULT WEAR WH-ULT900N (H) フォレストグレー",
   "sub": "",
   "jan": "4548736158375",
-  "buy": 17000,
+  "buy": 16500,
   "buy_used": null,
   "remarks": "メーカーキャンペーン応募済み減額あり"
  },
@@ -9301,7 +9292,7 @@
   "name": "New Kindle Paperwhite シグニチャーエディション 32GB メタリックブラック",
   "sub": "2024年発売",
   "jan": "0840268929282",
-  "buy": 30000,
+  "buy": 30200,
   "buy_used": null,
   "remarks": "アカウント登録済みは買取不可"
  },
@@ -9643,7 +9634,7 @@
   "name": "ガーミン fenix 8 Sapphire AMOLED 47mm 010-02904-27",
   "sub": "[Ti Carbon Gray DLC/Black]",
   "jan": "753759342463",
-  "buy": 75000,
+  "buy": 73000,
   "buy_used": null,
   "remarks": ""
  },
@@ -10008,15 +9999,6 @@
   "remarks": ""
  },
  {
-  "id": "S005942",
-  "name": "日立 かるパックスティック PKV-BK50L(V) [ライトラベンダー]",
-  "sub": "",
-  "jan": "4549873185491",
-  "buy": 36500,
-  "buy_used": null,
-  "remarks": ""
- },
- {
   "id": "S007331",
   "name": "日立　パワーブーストサイクロン PV-BH900SL(K) [サテンブラック]",
   "sub": "",
@@ -10093,7 +10075,7 @@
   "name": "日立 かるパックスティック PKV-BK50P(C) [ベージュ]",
   "sub": "",
   "jan": "4549873214542",
-  "buy": 44000,
+  "buy": 40000,
   "buy_used": null,
   "remarks": ""
  },
@@ -10615,7 +10597,7 @@
   "name": "パナソニック ナノケア EH-NB70-K [アンバーブラック]",
   "sub": "",
   "jan": "4550719162286",
-  "buy": 34000,
+  "buy": 29000,
   "buy_used": null,
   "remarks": ""
  },
@@ -10624,7 +10606,7 @@
   "name": "パナソニック ナノケア EH-NB70-E [シアーベージュ]",
   "sub": "",
   "jan": "4550719162279",
-  "buy": 34000,
+  "buy": 29000,
   "buy_used": null,
   "remarks": ""
  },
@@ -10840,7 +10822,7 @@
   "name": "パナソニック ディーガ DMR-2W103",
   "sub": "",
   "jan": "4549980878989",
-  "buy": 56000,
+  "buy": 50000,
   "buy_used": null,
   "remarks": ""
  },
@@ -10926,24 +10908,6 @@
   "remarks": ""
  },
  {
-  "id": "S004512",
-  "name": "タイガー魔法瓶 炊きたて ご泡火炊き JPI-X100-WX [タルクホワイト]",
-  "sub": "",
-  "jan": "4904710437698",
-  "buy": 25000,
-  "buy_used": null,
-  "remarks": ""
- },
- {
-  "id": "S004513",
-  "name": "タイガー魔法瓶 炊きたて ご泡火炊き JPI-X100-KX [フォグブラック]",
-  "sub": "",
-  "jan": "4904710437681",
-  "buy": 26000,
-  "buy_used": null,
-  "remarks": ""
- },
- {
   "id": "S004858",
   "name": "SHARP KN-HW16G-W [ホワイト系]",
   "sub": "",
@@ -10962,15 +10926,6 @@
   "remarks": "捺印なし"
  },
  {
-  "id": "S005046",
-  "name": "Panasonic SR-AX1-W [ホワイト]",
-  "sub": "",
-  "jan": "4549980706268",
-  "buy": 25000,
-  "buy_used": null,
-  "remarks": ""
- },
- {
   "id": "S005121",
   "name": "SHARP KN-HW16G-B [ブラック系]",
   "sub": "",
@@ -10980,56 +10935,11 @@
   "remarks": "印なし"
  },
  {
-  "id": "S008516",
-  "name": "象印 極め炊き NW-YB10-BZ [スレートブラック]",
-  "sub": "",
-  "jan": "4974305227201",
-  "buy": 26000,
-  "buy_used": null,
-  "remarks": ""
- },
- {
-  "id": "S008517",
-  "name": "象印 極め炊き NW-YB10-WA [ホワイト]",
-  "sub": "",
-  "jan": "4974305227225",
-  "buy": 22000,
-  "buy_used": null,
-  "remarks": ""
- },
- {
-  "id": "S008523",
-  "name": "象印 炎舞炊き NW-NA10-BZ [スレートブラック]",
-  "sub": "",
-  "jan": "4974305227126",
-  "buy": 56500,
-  "buy_used": null,
-  "remarks": ""
- },
- {
-  "id": "S007364",
-  "name": "象印 炎舞炊き NW-UT07-BZ [濃墨]",
-  "sub": "",
-  "jan": "4974305224842",
-  "buy": 61000,
-  "buy_used": null,
-  "remarks": ""
- },
- {
-  "id": "S008526",
-  "name": "象印 炎舞炊き NW-UT07-WZ [絹白]",
-  "sub": "",
-  "jan": "4974305224859",
-  "buy": 58000,
-  "buy_used": null,
-  "remarks": ""
- },
- {
   "id": "S008528",
   "name": "タイガー魔法瓶 炊きたて ご泡火炊き JRI-A100-WM [マットホワイト]",
   "sub": "",
   "jan": "4904710441107",
-  "buy": 26500,
+  "buy": 25000,
   "buy_used": null,
   "remarks": ""
  },
@@ -11039,51 +10949,6 @@
   "sub": "",
   "jan": "4904710441091",
   "buy": 26000,
-  "buy_used": null,
-  "remarks": ""
- },
- {
-  "id": "S006718",
-  "name": "日立 沸騰鉄釜 ふっくら御膳 RZ-V100HM(W) [フロストホワイト]",
-  "sub": "",
-  "jan": "4549873195681",
-  "buy": 21000,
-  "buy_used": null,
-  "remarks": ""
- },
- {
-  "id": "S006714",
-  "name": "日立 沸騰鉄釜 ふっくら御膳 RZ-V100HM(K) [フロストブラック]",
-  "sub": "",
-  "jan": "4549873195698",
-  "buy": 22500,
-  "buy_used": null,
-  "remarks": ""
- },
- {
-  "id": "S006280",
-  "name": "象印 極め炊き NW-MB07-BZ [スレートブラック]",
-  "sub": "",
-  "jan": "4974305226181",
-  "buy": 34000,
-  "buy_used": null,
-  "remarks": ""
- },
- {
-  "id": "S008530",
-  "name": "タイガー魔法瓶 土鍋ご泡火炊き JRX-G100-KG [エボニーブラック]",
-  "sub": "",
-  "jan": "4904710441022",
-  "buy": 61000,
-  "buy_used": null,
-  "remarks": ""
- },
- {
-  "id": "S008087",
-  "name": "タイガー魔法瓶 土鍋ご泡火炊き JRX-G100-WG [アイボリーホワイト]",
-  "sub": "",
-  "jan": "4904710441046",
-  "buy": 61000,
   "buy_used": null,
   "remarks": ""
  },
@@ -11151,15 +11016,6 @@
   "remarks": ""
  },
  {
-  "id": "S008217",
-  "name": "象印 極め炊き NW-QA10-BA [ブラック]",
-  "sub": "",
-  "jan": "4974305227720",
-  "buy": 20000,
-  "buy_used": null,
-  "remarks": ""
- },
- {
   "id": "S009274",
   "name": "象印 極め炊き NW-WA10-BZ [スレートブラック]",
   "sub": "",
@@ -11183,33 +11039,6 @@
   "sub": "",
   "jan": "4902901972119",
   "buy": 42000,
-  "buy_used": null,
-  "remarks": ""
- },
- {
-  "id": "S008400",
-  "name": "象印 極め炊き NW-JZ10-BA [ブラック]",
-  "sub": "",
-  "jan": "4974305224170",
-  "buy": 34000,
-  "buy_used": null,
-  "remarks": ""
- },
- {
-  "id": "S010301",
-  "name": "象印 炎舞炊き NW-FC18-WZ 絹白",
-  "sub": "",
-  "jan": "4974305227119",
-  "buy": 54000,
-  "buy_used": null,
-  "remarks": ""
- },
- {
-  "id": "S010302",
-  "name": "象印 炎舞炊き NW-FC18-BZ 濃墨",
-  "sub": "",
-  "jan": "4974305227096",
-  "buy": 59000,
   "buy_used": null,
   "remarks": ""
  },
@@ -11295,24 +11124,6 @@
   "remarks": ""
  },
  {
-  "id": "S010890",
-  "name": "タイガー魔法瓶 炊きたて JPV-S100-WO [オフホワイト]",
-  "sub": "",
-  "jan": "4904710441169",
-  "buy": 22500,
-  "buy_used": null,
-  "remarks": ""
- },
- {
-  "id": "S010891",
-  "name": "タイガー魔法瓶 炊きたて JPV-S100-KO [オフブラック]",
-  "sub": "",
-  "jan": "4904710441152",
-  "buy": 22500,
-  "buy_used": null,
-  "remarks": ""
- },
- {
   "id": "S010634",
   "name": "東芝 真空圧力IH RC-10HGX(W) [グランホワイト]",
   "sub": "",
@@ -11344,7 +11155,7 @@
   "name": "パナソニック おどり炊き SR-N510D-W [ホワイト]",
   "sub": "",
   "jan": "4549980963500",
-  "buy": 22000,
+  "buy": 23000,
   "buy_used": null,
   "remarks": ""
  },
@@ -11372,24 +11183,6 @@
   "sub": "",
   "jan": "4904710441084",
   "buy": 45500,
-  "buy_used": null,
-  "remarks": ""
- },
- {
-  "id": "S010915",
-  "name": "パナソニック SR-H10B-K [ブラック]",
-  "sub": "",
-  "jan": "4549980857816",
-  "buy": 12000,
-  "buy_used": null,
-  "remarks": ""
- },
- {
-  "id": "S010916",
-  "name": "タイガー魔法瓶 炊きたて JRI-B100-W [ホワイト]",
-  "sub": "",
-  "jan": "4904710441145",
-  "buy": 25000,
   "buy_used": null,
   "remarks": ""
  },
@@ -11695,7 +11488,7 @@
   "name": "ZOJIRUSHI 圧力IH炊飯ジャー NW-UU07-WZ",
   "sub": "",
   "jan": "4974305231338",
-  "buy": 68000,
+  "buy": 67000,
   "buy_used": null,
   "remarks": ""
  },
@@ -11821,7 +11614,7 @@
   "name": "タイガー魔法瓶 土鍋ご泡火炊き JRT-A100-KS [墨黒]",
   "sub": "",
   "jan": "4904710451816",
-  "buy": 94000,
+  "buy": 89000,
   "buy_used": null,
   "remarks": ""
  },
@@ -11830,7 +11623,7 @@
   "name": "タイガー魔法瓶 土鍋ご泡火炊き JRT-A100-WG [月白]",
   "sub": "",
   "jan": "4904710451823",
-  "buy": 94000,
+  "buy": 89000,
   "buy_used": null,
   "remarks": ""
  },
@@ -11920,7 +11713,7 @@
   "name": "パナソニック ビストロ SR-X910E-K [ブラック]",
   "sub": "",
   "jan": "4550719164518",
-  "buy": 60000,
+  "buy": 73500,
   "buy_used": null,
   "remarks": ""
  },
@@ -12043,10 +11836,10 @@
  },
  {
   "id": "S013860",
-  "name": "象印 豪熱大火力 NW-BC10-BA [ブラック]",
+  "name": "象印 豪熱大火力 NW-BC10-BA ブラック",
   "sub": "",
   "jan": "4974305232281",
-  "buy": 35000,
+  "buy": 33000,
   "buy_used": null,
   "remarks": ""
  },
@@ -12064,7 +11857,7 @@
   "name": "三菱電機 備長炭 炭炊釜 NJ-VS10H-W [白亜麻]",
   "sub": "",
   "jan": "4573637012877",
-  "buy": 16500,
+  "buy": 16000,
   "buy_used": null,
   "remarks": ""
  },
@@ -12082,7 +11875,7 @@
   "name": "象印 豪熱大火力 NW-QC10-BA [ブラック]",
   "sub": "",
   "jan": "4974305232342",
-  "buy": 23500,
+  "buy": 22500,
   "buy_used": null,
   "remarks": ""
  },
@@ -12379,7 +12172,7 @@
   "name": "ブラウン シリーズ9 Pro 9455cc-V",
   "sub": "",
   "jan": "4210201443353",
-  "buy": 27000,
+  "buy": 26000,
   "buy_used": null,
   "remarks": ""
  },
@@ -12649,7 +12442,7 @@
   "name": "パナソニック ラムダッシュ パームイン PRO ES-P650U-K [マーブルブラック]",
   "sub": "",
   "jan": "4550719178416",
-  "buy": 43000,
+  "buy": 41000,
   "buy_used": null,
   "remarks": ""
  },
@@ -12658,7 +12451,7 @@
   "name": "パナソニック ラムダッシュ パームイン PRO ES-P650U-W [マーブルホワイト]",
   "sub": "",
   "jan": "4550719178409",
-  "buy": 43000,
+  "buy": 42500,
   "buy_used": null,
   "remarks": ""
  },
@@ -13378,7 +13171,7 @@
   "name": "象印 EE-RU35-WA [ホワイト]",
   "sub": "",
   "jan": "4974305231147",
-  "buy": 10500,
+  "buy": 9500,
   "buy_used": null,
   "remarks": ""
  },
