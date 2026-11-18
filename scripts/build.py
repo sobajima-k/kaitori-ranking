@@ -1,4 +1,4 @@
-import json, sys, csv, datetime
+import json, sys, csv, datetime, os
 
 items_p, amz_p, tpl_p, html_out, csv_out = sys.argv[1:6]
 # --standalone adds the document head that the Claude artifact host would otherwise supply
@@ -6,6 +6,9 @@ standalone = "--standalone" in sys.argv[6:]
 JST = datetime.timezone(datetime.timedelta(hours=9))
 items = json.load(open(items_p, encoding="utf-8"))
 amz = json.load(open(amz_p, encoding="utf-8"))
+# amz_fetch.py の取得日は同じフォルダの amazon_date.txt に書いておく
+date_p = os.path.join(os.path.dirname(amz_p), "amazon_date.txt")
+amz_date = open(date_p, encoding="utf-8").read().strip() if os.path.exists(date_p) else "2026-11-05"
 
 rows = []
 for it in items:
@@ -27,7 +30,7 @@ rows.sort(key=lambda r: (r["flag"] != "", -r["rate"]))
 for i, r in enumerate(rows, 1):
     r["rank"] = i
 
-meta = {"date": datetime.datetime.now(JST).date().isoformat(), "amzDate": "2026-11-05", "total": len(items), "matched": len(rows),
+meta = {"date": datetime.datetime.now(JST).date().isoformat(), "amzDate": amz_date, "total": len(items), "matched": len(rows),
         "flagged": sum(1 for r in rows if r["flag"])}
 tpl = open(tpl_p, encoding="utf-8").read()
 if standalone:
