@@ -4,7 +4,7 @@
   "name": "Nintendo Switch 2 Proコントローラー ゼルダの伝説 40周年 アニバーサリーエディション",
   "sub": "ディスプレイスタンド付き",
   "jan": "4902370554564",
-  "buy": 13000,
+  "buy": 12800,
   "buy_used": null,
   "remarks": ""
  },
@@ -13,7 +13,7 @@
   "name": "Nintendo Switch 2 国内版",
   "sub": "",
   "jan": "4902370553024",
-  "buy": 52800,
+  "buy": 52900,
   "buy_used": null,
   "remarks": "来店+200"
  },
@@ -31,16 +31,25 @@
   "name": "Nintendo Switch Lite グレー",
   "sub": "",
   "jan": "4902370542929",
-  "buy": 27200,
+  "buy": 27300,
   "buy_used": null,
   "remarks": "来店+100"
+ },
+ {
+  "id": "S014105",
+  "name": "PS5 ワイヤレスコントローラー “グランド・セフト・オートVI” ブラック リミテッドエディション CFI-ZCT2JZH",
+  "sub": "",
+  "jan": "4948872417525",
+  "buy": 12800,
+  "buy_used": null,
+  "remarks": ""
  },
  {
   "id": "S011642",
   "name": "PlayStation 5 Pro CFI-7100B01 2TB 2025版",
   "sub": "",
   "jan": "4948872417075",
-  "buy": 211200,
+  "buy": 212700,
   "buy_used": null,
   "remarks": "来店+300"
  },
@@ -49,7 +58,7 @@
   "name": "Xbox series x",
   "sub": "",
   "jan": "4549576275383",
-  "buy": 121800,
+  "buy": 122000,
   "buy_used": null,
   "remarks": "来店+200\r\nJAN:4549576161617同額"
  },
@@ -76,7 +85,7 @@
   "name": "Steam Deck OLED 512GB",
   "sub": "",
   "jan": "0814585022254",
-  "buy": 138800,
+  "buy": 139100,
   "buy_used": null,
   "remarks": "来店+200\r\nJAN:0814585022605同額"
  },
@@ -112,7 +121,7 @@
   "name": "CANON PowerShot G7 X Mark III ブラック",
   "sub": "",
   "jan": "4549292137743",
-  "buy": 167500,
+  "buy": 168000,
   "buy_used": null,
   "remarks": "印あり-5000"
  },
@@ -193,7 +202,7 @@
   "name": "Nintendo Switch Joy-Con 2 (L)/(R) ライトブルー/ライトレッド BEE-A-JAAAA",
   "sub": "",
   "jan": "4902370552744",
-  "buy": 8000,
+  "buy": 8100,
   "buy_used": null,
   "remarks": ""
  },
@@ -238,7 +247,7 @@
   "name": "Nintendo Switch (有機ELモデル) ホワイト",
   "sub": "",
   "jan": "4902370548495",
-  "buy": 41700,
+  "buy": 42000,
   "buy_used": null,
   "remarks": ""
  },
@@ -328,7 +337,7 @@
   "name": "Nintendo Switch Lite ターコイズ",
   "sub": "",
   "jan": "4902370542943",
-  "buy": 27200,
+  "buy": 27300,
   "buy_used": null,
   "remarks": "来店+100"
  },
@@ -337,7 +346,7 @@
   "name": "Nintendo Switch Lite コーラル",
   "sub": "",
   "jan": "4902370545302",
-  "buy": 27600,
+  "buy": 27700,
   "buy_used": null,
   "remarks": "来店+100"
  },
@@ -454,16 +463,7 @@
   "name": "PS5 ワイヤレスコントローラー “グランド・セフト・オートVI” ホワイト リミテッドエディション CFI-ZCT2JZI",
   "sub": "",
   "jan": "4948872417501",
-  "buy": 12000,
-  "buy_used": null,
-  "remarks": ""
- },
- {
-  "id": "S014105",
-  "name": "PS5 ワイヤレスコントローラー “グランド・セフト・オートVI” ブラック リミテッドエディション CFI-ZCT2JZH",
-  "sub": "",
-  "jan": "4948872417525",
-  "buy": 12000,
+  "buy": 12800,
   "buy_used": null,
   "remarks": ""
  },
@@ -490,9 +490,9 @@
   "name": "PlayStation 5 デジタル・エディション 日本語専用 CFI-2200B01 [825GB]",
   "sub": "",
   "jan": "4948872417419",
-  "buy": 50000,
+  "buy": 49500,
   "buy_used": null,
-  "remarks": "来店+300\r\n【シリアル番号の確認方法】\r\n◆ 製造年（6桁目）： 「5」→ 2025年製 ／ 「6」→ 2026年製\r\n◆ 製造月（7桁目）： 「1」～「9」→ 1月～9月製 ／ 「A」→ 10月製 ／ 「B」→ 11月製 ／ 「C」→ 12月製"
+  "remarks": "【シリアル番号の確認方法】\r\n◆ 製造年（6桁目）： 「5」→ 2025年製 ／ 「6」→ 2026年製\r\n◆ 製造月（7桁目）： 「1」～「9」→ 1月～9月製 ／ 「A」→ 10月製 ／ 「B」→ 11月製 ／ 「C」→ 12月製"
  },
  {
   "id": "S012455",
@@ -526,7 +526,7 @@
   "name": "PlayStation 5 Pro CFI-7000B01 2TB",
   "sub": "",
   "jan": "4948872416320",
-  "buy": 211200,
+  "buy": 212700,
   "buy_used": null,
   "remarks": "来店+300"
  },
@@ -985,7 +985,7 @@
   "name": "Xbox Series X デジタル エディション 1TB ロボット ホワイト　EP2-00708",
   "sub": "",
   "jan": "4549576247038",
-  "buy": 110300,
+  "buy": 110500,
   "buy_used": null,
   "remarks": "来店+200"
  },
@@ -1165,7 +1165,7 @@
   "name": "Steam Deck OLED 1TB",
   "sub": "",
   "jan": "0814585022308",
-  "buy": 164800,
+  "buy": 165000,
   "buy_used": null,
   "remarks": "来店+200\r\nJAN:0814585022629同額"
  },
@@ -1210,7 +1210,7 @@
   "name": "ゼルダの伝説 時のオカリナ/Switch 2",
   "sub": "",
   "jan": "4902370554922",
-  "buy": 7000,
+  "buy": 7150,
   "buy_used": null,
   "remarks": ""
  },
@@ -1426,7 +1426,7 @@
   "name": "スーパーマリオギャラクシー+スーパーマリオギャラクシー 2",
   "sub": "",
   "jan": "4902370553611",
-  "buy": 5400,
+  "buy": 5000,
   "buy_used": null,
   "remarks": ""
  },
@@ -1670,15 +1670,6 @@
   "sub": "",
   "jan": "4902370549263",
   "buy": 4100,
-  "buy_used": null,
-  "remarks": ""
- },
- {
-  "id": "S004639",
-  "name": "桃太郎電鉄ワールド ～地球は希望でまわってる",
-  "sub": "",
-  "jan": "4988602176490",
-  "buy": 3100,
   "buy_used": null,
   "remarks": ""
  },
@@ -2020,7 +2011,7 @@
   "name": "instax mini Evo チェキ USB ブラック",
   "sub": "",
   "jan": "4547410520088",
-  "buy": 24700,
+  "buy": 25500,
   "buy_used": null,
   "remarks": ""
  },
@@ -2029,7 +2020,7 @@
   "name": "instax mini Evo チェキ USB ブラウン",
   "sub": "",
   "jan": "4547410520125",
-  "buy": 26200,
+  "buy": 26500,
   "buy_used": null,
   "remarks": ""
  },
@@ -3244,7 +3235,7 @@
   "name": "Pixel Watch 5 Wi-Fiモデル 41mm GA10898-US",
   "sub": "Polished Silver アルミケースFog アクティブ バンド",
   "jan": "0840353962132",
-  "buy": 50000,
+  "buy": 43000,
   "buy_used": null,
   "remarks": ""
  },
@@ -3253,7 +3244,7 @@
   "name": "Pixel Watch 5 Wi-Fiモデル 41mm GA10902-US",
   "sub": "Champagne Gold アルミケースCanyon アクティブ バンド",
   "jan": "0840353962057",
-  "buy": 50000,
+  "buy": 43000,
   "buy_used": null,
   "remarks": ""
  },
@@ -3262,7 +3253,7 @@
   "name": "Pixel Watch 5 Wi-Fiモデル 41mm GA11567-US",
   "sub": "Satin Pyrite アルミケースOlive アクティブ バンド",
   "jan": "0840353961920",
-  "buy": 50000,
+  "buy": 43000,
   "buy_used": null,
   "remarks": ""
  },
@@ -3271,7 +3262,7 @@
   "name": "Pixel Watch 5 Wi-Fiモデル 41mm GA10900-US",
   "sub": "Matte Black アルミケースObsidian アクティブ バンド",
   "jan": "0840353962095",
-  "buy": 50000,
+  "buy": 43000,
   "buy_used": null,
   "remarks": ""
  },
@@ -3280,7 +3271,7 @@
   "name": "Pixel Watch 5 Wi-Fiモデル 45mm GA10892-US",
   "sub": "Polished Silver アルミケースFog アクティブ バンド",
   "jan": "0840353962255",
-  "buy": 52000,
+  "buy": 47000,
   "buy_used": null,
   "remarks": ""
  },
@@ -3289,7 +3280,7 @@
   "name": "Pixel Watch 5 Wi-Fiモデル 45mm GA10896-US",
   "sub": "Satin Pyrite アルミケースOlive アクティブ バンド",
   "jan": "0840353962170",
-  "buy": 52000,
+  "buy": 47000,
   "buy_used": null,
   "remarks": ""
  },
@@ -3298,7 +3289,7 @@
   "name": "Pixel Watch 5 Wi-Fiモデル 45mm GA10894-US",
   "sub": "Matte Black アルミケースObsidian アクティブ バンド",
   "jan": "0840353962217",
-  "buy": 52000,
+  "buy": 47000,
   "buy_used": null,
   "remarks": ""
  },
@@ -3586,7 +3577,7 @@
   "name": "Microsoft Office Home & Business 2024",
   "sub": "",
   "jan": "4549576249797",
-  "buy": 30000,
+  "buy": 32000,
   "buy_used": null,
   "remarks": "正規代理店の【シリアル番号あり】購入証明原本(納品書、レシート等)の提出が必要。※買取後に使用済み/非アクティベートの場合は返品対応となります。ご了承の上お申し込み下さい"
  },
@@ -3595,7 +3586,7 @@
   "name": "Microsoft Office Home 2024 POSA",
   "sub": "",
   "jan": "4549576250618",
-  "buy": 30000,
+  "buy": 31000,
   "buy_used": null,
   "remarks": "正規代理店の【シリアル番号あり】購入証明原本(納品書、レシート等)の提出が必要。※買取後に使用済み/非アクティベートの場合は返品対応となります。ご了承の上お申し込み下さい"
  },
@@ -5206,7 +5197,7 @@
   "name": "桃太郎電鉄2 ～あなたの町も きっとある～ 東日本編+西日本編 /Switch 2",
   "sub": "",
   "jan": "4988602179231",
-  "buy": 5700,
+  "buy": 5200,
   "buy_used": null,
   "remarks": ""
  },
@@ -5288,51 +5279,6 @@
   "sub": "",
   "jan": "4902370546057",
   "buy": 5000,
-  "buy_used": null,
-  "remarks": ""
- },
- {
-  "id": "S002211",
-  "name": "太鼓の達人 ドンダフルフェスティバル",
-  "sub": "",
-  "jan": "4571577970691",
-  "buy": 3900,
-  "buy_used": null,
-  "remarks": ""
- },
- {
-  "id": "S002301",
-  "name": "ドラゴンクエストX目覚めし五つの種族オフライン",
-  "sub": "",
-  "jan": "4988601011143",
-  "buy": 4600,
-  "buy_used": null,
-  "remarks": ""
- },
- {
-  "id": "S002384",
-  "name": "釣りスピリッツ 釣って遊べる水族館",
-  "sub": "",
-  "jan": "4571577977430",
-  "buy": 3800,
-  "buy_used": null,
-  "remarks": ""
- },
- {
-  "id": "S002567",
-  "name": "モンスターハンターライズ Best Price（再廉価版）",
-  "sub": "",
-  "jan": "4976219123976",
-  "buy": 1600,
-  "buy_used": null,
-  "remarks": ""
- },
- {
-  "id": "S002859",
-  "name": "ファイアーエムブレム エンゲージ",
-  "sub": "",
-  "jan": "4902370550825",
-  "buy": 4300,
   "buy_used": null,
   "remarks": ""
  },
@@ -8469,33 +8415,6 @@
   "remarks": ""
  },
  {
-  "id": "S009857",
-  "name": "NEC LAVIE N16 N1675/JAE PC-N1675JAE [オリーブグリーン]",
-  "sub": "",
-  "jan": "4573525920611",
-  "buy": 110000,
-  "buy_used": null,
-  "remarks": ""
- },
- {
-  "id": "S009858",
-  "name": "NEC LAVIE N16 N1675/JAL PC-N1675JAL [ネイビーブルー]",
-  "sub": "",
-  "jan": "4573525920604",
-  "buy": 110000,
-  "buy_used": null,
-  "remarks": ""
- },
- {
-  "id": "S009859",
-  "name": "NEC LAVIE N16 N1675/JAW PC-N1675JAW [パールホワイト]",
-  "sub": "",
-  "jan": "4573525920598",
-  "buy": 110000,
-  "buy_used": null,
-  "remarks": ""
- },
- {
   "id": "S012025",
   "name": "NEC LAVIE N15 Slim N157D/GAB PC-N157DGAB [カームブラック]",
   "sub": "",
@@ -8509,7 +8428,7 @@
   "name": "富士通 FMV Note A A75-K3 FMVA75K3BA [ブライトブラック]",
   "sub": "",
   "jan": "4570105180922",
-  "buy": 105000,
+  "buy": 120000,
   "buy_used": null,
   "remarks": ""
  },
@@ -8518,7 +8437,7 @@
   "name": "富士通 FMV Note A A75-K3 FMVA75K3SA [ファインシルバー]",
   "sub": "",
   "jan": "4570105180465",
-  "buy": 105000,
+  "buy": 120000,
   "buy_used": null,
   "remarks": ""
  },
@@ -8527,7 +8446,7 @@
   "name": "富士通 FMV Note A A75-K3 FMVA75K3GA [ベージュゴールド]",
   "sub": "",
   "jan": "4570105180472",
-  "buy": 105000,
+  "buy": 120000,
   "buy_used": null,
   "remarks": ""
  },
@@ -10624,7 +10543,7 @@
   "name": "タイガー魔法瓶 炊きたて ご泡火炊き JRI-A100-KM [マットブラック]",
   "sub": "",
   "jan": "4904710441091",
-  "buy": 26000,
+  "buy": 25000,
   "buy_used": null,
   "remarks": ""
  },
@@ -10633,7 +10552,7 @@
   "name": "象印 極め炊き NW-VJ10-BA [ブラック]",
   "sub": "",
   "jan": "4974305227232",
-  "buy": 14000,
+  "buy": 13000,
   "buy_used": null,
   "remarks": ""
  },
@@ -13252,7 +13171,7 @@
   "name": "ブラウン オーラルB iO10 iOM10442ADCB",
   "sub": "",
   "jan": "4987176160720",
-  "buy": 34000,
+  "buy": 33000,
   "buy_used": null,
   "remarks": ""
  },
