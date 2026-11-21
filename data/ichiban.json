@@ -4,7 +4,7 @@
   "name": "Nintendo Switch 2 Proコントローラー ゼルダの伝説 40周年 アニバーサリーエディション",
   "sub": "ディスプレイスタンド付き",
   "jan": "4902370554564",
-  "buy": 12800,
+  "buy": 12500,
   "buy_used": null,
   "remarks": ""
  },
@@ -31,7 +31,7 @@
   "name": "Nintendo Switch Lite グレー",
   "sub": "",
   "jan": "4902370542929",
-  "buy": 27300,
+  "buy": 27400,
   "buy_used": null,
   "remarks": "来店+100"
  },
@@ -49,7 +49,7 @@
   "name": "PlayStation 5 Pro CFI-7100B01 2TB 2025版",
   "sub": "",
   "jan": "4948872417075",
-  "buy": 212700,
+  "buy": 213700,
   "buy_used": null,
   "remarks": "来店+300"
  },
@@ -76,7 +76,7 @@
   "name": "Steam Controller",
   "sub": "",
   "jan": "0814585022803",
-  "buy": 22300,
+  "buy": 20500,
   "buy_used": null,
   "remarks": "未開封"
  },
@@ -238,7 +238,7 @@
   "name": "SanDisk microSD Express Card 256GB for Nintendo Switch 2",
   "sub": "",
   "jan": "4523052030185",
-  "buy": 7500,
+  "buy": 7600,
   "buy_used": null,
   "remarks": ""
  },
@@ -337,7 +337,7 @@
   "name": "Nintendo Switch Lite ターコイズ",
   "sub": "",
   "jan": "4902370542943",
-  "buy": 27300,
+  "buy": 27400,
   "buy_used": null,
   "remarks": "来店+100"
  },
@@ -526,7 +526,7 @@
   "name": "PlayStation 5 Pro CFI-7000B01 2TB",
   "sub": "",
   "jan": "4948872416320",
-  "buy": 212700,
+  "buy": 213700,
   "buy_used": null,
   "remarks": "来店+300"
  },
@@ -634,7 +634,7 @@
   "name": "PlayStation Portal リモートプレーヤー ミッドナイト ブラック CFIJ-18001",
   "sub": "",
   "jan": "4948872017251",
-  "buy": 33200,
+  "buy": 33300,
   "buy_used": null,
   "remarks": ""
  },
@@ -976,7 +976,7 @@
   "name": "Xbox Series S 1TB ロボット ホワイト EP2-00650",
   "sub": "",
   "jan": "4549576246994",
-  "buy": 89000,
+  "buy": 88500,
   "buy_used": null,
   "remarks": "来店+200"
  },
@@ -994,7 +994,7 @@
   "name": "Xbox Series S 1TB  XXU-00015",
   "sub": "",
   "jan": "4549576215563",
-  "buy": 89000,
+  "buy": 88500,
   "buy_used": null,
   "remarks": "来店+200"
  },
@@ -1777,7 +1777,7 @@
   "name": "Ghost of Yotei/PS5",
   "sub": "",
   "jan": "4948872017305",
-  "buy": 4600,
+  "buy": 4500,
   "buy_used": null,
   "remarks": ""
  },
@@ -2434,7 +2434,7 @@
   "name": "Nikon Z 8 ボディ",
   "sub": "",
   "jan": "4960759909947",
-  "buy": 400000,
+  "buy": 420000,
   "buy_used": null,
   "remarks": "捺印なし"
  },
@@ -2443,7 +2443,7 @@
   "name": "Nikon Z 30 ダブルズームキット",
   "sub": "",
   "jan": "4960759910639",
-  "buy": 103000,
+  "buy": 102000,
   "buy_used": null,
   "remarks": "捺印なし"
  },
@@ -2461,7 +2461,7 @@
   "name": "Nikon Z 50 ダブルズームキット",
   "sub": "",
   "jan": "4960759903624",
-  "buy": 110000,
+  "buy": 113000,
   "buy_used": null,
   "remarks": "捺印なし"
  },
@@ -2515,7 +2515,7 @@
   "name": "CANON PowerShot V1",
   "sub": "",
   "jan": "4549292228090",
-  "buy": 91000,
+  "buy": 93000,
   "buy_used": null,
   "remarks": "印なしのみ"
  },
@@ -2556,42 +2556,6 @@
   "remarks": "捺印なし"
  },
  {
-  "id": "S002100",
-  "name": "EOS Kiss X10 EF-S18-55 IS STM レンズキット [ブラック]",
-  "sub": "",
-  "jan": "4549292132687",
-  "buy": 68000,
-  "buy_used": null,
-  "remarks": "捺印なし"
- },
- {
-  "id": "S002169",
-  "name": "EOS Kiss M2 ダブルズームキット [ブラック]",
-  "sub": "",
-  "jan": "4549292176315",
-  "buy": 102000,
-  "buy_used": null,
-  "remarks": "捺印なし"
- },
- {
-  "id": "S002170",
-  "name": "EOS Kiss M2 ダブルズームキット [ホワイト]",
-  "sub": "",
-  "jan": "4549292176346",
-  "buy": 100000,
-  "buy_used": null,
-  "remarks": "捺印なし"
- },
- {
-  "id": "S002517",
-  "name": "CANON  EOS Kiss X10 ボディ",
-  "sub": "",
-  "jan": "4549292132670",
-  "buy": 63000,
-  "buy_used": null,
-  "remarks": "捺印なし"
- },
- {
   "id": "S002558",
   "name": "EOS R6 Mark II ボディ",
   "sub": "",
@@ -2614,7 +2578,7 @@
   "name": "EOS R50 ダブルズームキット [ブラック]",
   "sub": "",
   "jan": "4549292205053",
-  "buy": 105000,
+  "buy": 106000,
   "buy_used": null,
   "remarks": "捺印なし"
  },
@@ -2623,7 +2587,7 @@
   "name": "EOS R50 ダブルズームキット [ホワイト]",
   "sub": "",
   "jan": "4549292205336",
-  "buy": 105000,
+  "buy": 108000,
   "buy_used": null,
   "remarks": "捺印なし"
  },
@@ -2632,7 +2596,7 @@
   "name": "CANON PowerShot SX740 HS ブラック",
   "sub": "",
   "jan": "4549292119008",
-  "buy": 81000,
+  "buy": 80000,
   "buy_used": null,
   "remarks": "印あり-3000"
  },
@@ -2641,7 +2605,7 @@
   "name": "CANON　EOS R100 ダブルズームキット",
   "sub": "",
   "jan": "4549292214628",
-  "buy": 88000,
+  "buy": 86000,
   "buy_used": null,
   "remarks": "捺印なし"
  },
@@ -2659,7 +2623,7 @@
   "name": "RICOH GR III HDF 特別モデル",
   "sub": "",
   "jan": "4549212306181",
-  "buy": 178000,
+  "buy": 185000,
   "buy_used": null,
   "remarks": "捺印なし"
  },
@@ -2668,7 +2632,7 @@
   "name": "RICOH GR IIIx HDF 特別モデル",
   "sub": "",
   "jan": "4549212306297",
-  "buy": 190000,
+  "buy": 200000,
   "buy_used": null,
   "remarks": "捺印なし"
  },
@@ -2677,7 +2641,7 @@
   "name": "RICOH GR III",
   "sub": "",
   "jan": "4549212300202",
-  "buy": 178000,
+  "buy": 175000,
   "buy_used": null,
   "remarks": "捺印なし"
  },
@@ -2740,25 +2704,25 @@
   "name": "OLYMPUS Tough TG-6 [ブラック]",
   "sub": "",
   "jan": "4545350052676",
-  "buy": 49000,
+  "buy": 51000,
   "buy_used": null,
-  "remarks": "捺印なし"
+  "remarks": "印なしのみ"
  },
  {
   "id": "S002039",
   "name": "OLYMPUS Tough TG-6 [レッド]",
   "sub": "",
   "jan": "4545350052690",
-  "buy": 45000,
+  "buy": 51000,
   "buy_used": null,
-  "remarks": "捺印なし"
+  "remarks": "印なしのみ"
  },
  {
   "id": "S004675",
   "name": "OLYMPUS OM-D E-M10 Mark IV EZダブルズームキット ブラック",
   "sub": "",
   "jan": "4545350053352",
-  "buy": 85000,
+  "buy": 89000,
   "buy_used": null,
   "remarks": "捺印なし"
  },
@@ -2767,7 +2731,7 @@
   "name": "OLYMPUS OM-D E-M10 Mark IV EZダブルズームキット シルバー",
   "sub": "",
   "jan": "4545350053369",
-  "buy": 85000,
+  "buy": 83000,
   "buy_used": null,
   "remarks": "捺印なし"
  },
@@ -2776,18 +2740,18 @@
   "name": "OM SYSTEM Tough TG-7 [レッド]",
   "sub": "",
   "jan": "4545350055981",
-  "buy": 51000,
+  "buy": 53000,
   "buy_used": null,
-  "remarks": "捺印なし"
+  "remarks": "印なしのみ"
  },
  {
   "id": "S004384",
   "name": "OM SYSTEM Tough TG-7 [ブラック]",
   "sub": "",
   "jan": "4545350055974",
-  "buy": 51000,
+  "buy": 53000,
   "buy_used": null,
-  "remarks": "捺印なし"
+  "remarks": "印なしのみ"
  },
  {
   "id": "S008972",
@@ -2821,7 +2785,7 @@
   "name": "Panasonic LUMIX DC-TZ99-W ホワイト",
   "sub": "",
   "jan": "4549980888254",
-  "buy": 65500,
+  "buy": 66000,
   "buy_used": null,
   "remarks": "捺印不可"
  },
@@ -3235,7 +3199,7 @@
   "name": "Pixel Watch 5 Wi-Fiモデル 41mm GA10898-US",
   "sub": "Polished Silver アルミケースFog アクティブ バンド",
   "jan": "0840353962132",
-  "buy": 43000,
+  "buy": 41000,
   "buy_used": null,
   "remarks": ""
  },
@@ -3244,7 +3208,7 @@
   "name": "Pixel Watch 5 Wi-Fiモデル 41mm GA10902-US",
   "sub": "Champagne Gold アルミケースCanyon アクティブ バンド",
   "jan": "0840353962057",
-  "buy": 43000,
+  "buy": 41000,
   "buy_used": null,
   "remarks": ""
  },
@@ -3253,7 +3217,7 @@
   "name": "Pixel Watch 5 Wi-Fiモデル 41mm GA11567-US",
   "sub": "Satin Pyrite アルミケースOlive アクティブ バンド",
   "jan": "0840353961920",
-  "buy": 43000,
+  "buy": 41000,
   "buy_used": null,
   "remarks": ""
  },
@@ -3262,7 +3226,7 @@
   "name": "Pixel Watch 5 Wi-Fiモデル 41mm GA10900-US",
   "sub": "Matte Black アルミケースObsidian アクティブ バンド",
   "jan": "0840353962095",
-  "buy": 43000,
+  "buy": 41000,
   "buy_used": null,
   "remarks": ""
  },
@@ -4297,7 +4261,7 @@
   "name": "パナソニック 全自動ディーガ DMR-2X303",
   "sub": "",
   "jan": "4549980770580",
-  "buy": 77000,
+  "buy": 74000,
   "buy_used": null,
   "remarks": ""
  },
@@ -4378,7 +4342,7 @@
   "name": "象印 豪熱大火力 NW-BB10-BZ [スレートブラック]",
   "sub": "",
   "jan": "4974305230447",
-  "buy": 31000,
+  "buy": 30000,
   "buy_used": null,
   "remarks": ""
  },
@@ -5764,25 +5728,7 @@
   "name": "Nikon Z 30 16-50 VR レンズキット",
   "sub": "",
   "jan": "4960759910622",
-  "buy": 79000,
-  "buy_used": null,
-  "remarks": "捺印なし"
- },
- {
-  "id": "S001912",
-  "name": "Nikon COOLPIX B600 [レッド]",
-  "sub": "",
-  "jan": "4960759902306",
-  "buy": 26000,
-  "buy_used": null,
-  "remarks": "捺印なし"
- },
- {
-  "id": "S001913",
-  "name": "Nikon COOLPIX B600 [ブラック]",
-  "sub": "",
-  "jan": "4960759902290",
-  "buy": 26000,
+  "buy": 80000,
   "buy_used": null,
   "remarks": "捺印なし"
  },
@@ -5827,7 +5773,7 @@
   "name": "ニコン COOLPIX P1100",
   "sub": "",
   "jan": "4960759916631",
-  "buy": 108000,
+  "buy": 110000,
   "buy_used": null,
   "remarks": "印なしのみ"
  },
@@ -5836,16 +5782,7 @@
   "name": "CANON PowerShot V10 トライポッドグリップキット",
   "sub": "",
   "jan": "4957792163740",
-  "buy": 43000,
-  "buy_used": null,
-  "remarks": "捺印なし 台数限定"
- },
- {
-  "id": "S003706",
-  "name": "CANON PowerShot G5 X Mark II",
-  "sub": "",
-  "jan": "4549292119114",
-  "buy": 85000,
+  "buy": 44000,
   "buy_used": null,
   "remarks": "捺印なし 台数限定"
  },
@@ -5854,7 +5791,7 @@
   "name": "EOS Kiss X10 ダブルズームキット",
   "sub": "",
   "jan": "4549292132694",
-  "buy": 89000,
+  "buy": 96000,
   "buy_used": null,
   "remarks": "捺印なし"
  },
@@ -5863,7 +5800,7 @@
   "name": "EOS R7 RF-S18-150 IS STM レンズキット",
   "sub": "",
   "jan": "4549292185546",
-  "buy": 197000,
+  "buy": 200000,
   "buy_used": null,
   "remarks": "捺印なし 台数限定"
  },
@@ -5872,79 +5809,7 @@
   "name": "EOS 5D MarK IV ボディ",
   "sub": "",
   "jan": "4549292075748",
-  "buy": 230000,
-  "buy_used": null,
-  "remarks": "捺印なし"
- },
- {
-  "id": "S002052",
-  "name": "iNSPiC REC FV-100-PK [ピンク]",
-  "sub": "",
-  "jan": "4549292167399",
-  "buy": 9000,
-  "buy_used": null,
-  "remarks": "捺印なし"
- },
- {
-  "id": "S002053",
-  "name": "NSPiC REC FV-100-GN [グリーン]",
-  "sub": "",
-  "jan": "4549292167405",
-  "buy": 9000,
-  "buy_used": null,
-  "remarks": "捺印なし"
- },
- {
-  "id": "S002054",
-  "name": "iNSPiC REC FV-100-GY [グレー]",
-  "sub": "",
-  "jan": "4549292167382",
-  "buy": 9000,
-  "buy_used": null,
-  "remarks": "捺印なし"
- },
- {
-  "id": "S002055",
-  "name": "iNSPiC REC FV-100-BL [ブルー]",
-  "sub": "",
-  "jan": "4549292167412",
-  "buy": 9000,
-  "buy_used": null,
-  "remarks": "捺印なし"
- },
- {
-  "id": "S002079",
-  "name": "CANON EOS M6 Mark II ボディ [シルバー]",
-  "sub": "",
-  "jan": "4549292136913",
-  "buy": 85000,
-  "buy_used": null,
-  "remarks": "捺印なし"
- },
- {
-  "id": "S002080",
-  "name": "CANON EOS M6 Mark II ボディ [ブラック]",
-  "sub": "",
-  "jan": "4549292136401",
-  "buy": 85000,
-  "buy_used": null,
-  "remarks": "捺印なし"
- },
- {
-  "id": "S002082",
-  "name": "CANON EOS M6 Mark II EF-M18-150 IS STM レンズキット [ブラック]",
-  "sub": "",
-  "jan": "4549292136494",
-  "buy": 115000,
-  "buy_used": null,
-  "remarks": "捺印なし"
- },
- {
-  "id": "S002081",
-  "name": "CANON EOS M6 Mark II EF-M18-150 IS STM レンズキット [シルバー]",
-  "sub": "",
-  "jan": "4549292084856",
-  "buy": 117000,
+  "buy": 254000,
   "buy_used": null,
   "remarks": "捺印なし"
  },
@@ -5958,20 +5823,11 @@
   "remarks": "捺印なし"
  },
  {
-  "id": "S002481",
-  "name": "CANON  EOS R5 C ボディ",
-  "sub": "",
-  "jan": "4549292184853",
-  "buy": 435000,
-  "buy_used": null,
-  "remarks": "捺印なし"
- },
- {
   "id": "S002482",
   "name": "CANON  EOS R10 RF-S18-45 IS STM レンズキット",
   "sub": "",
   "jan": "4549292189766",
-  "buy": 113000,
+  "buy": 115000,
   "buy_used": null,
   "remarks": "捺印なし"
  },
@@ -6016,7 +5872,7 @@
   "name": "CANON EOS R8 ボディ",
   "sub": "",
   "jan": "4549292204834",
-  "buy": 160000,
+  "buy": 162000,
   "buy_used": null,
   "remarks": "捺印なし"
  },
@@ -6026,33 +5882,6 @@
   "sub": "",
   "jan": "4549292204872",
   "buy": 180000,
-  "buy_used": null,
-  "remarks": "捺印なし"
- },
- {
-  "id": "S003552",
-  "name": "CANON EOS R100 ボディ",
-  "sub": "",
-  "jan": "4549292214543",
-  "buy": 60000,
-  "buy_used": null,
-  "remarks": "捺印なし"
- },
- {
-  "id": "S004352",
-  "name": "CANON PowerShot ZOOM",
-  "sub": "",
-  "jan": "4549292179675",
-  "buy": 20500,
-  "buy_used": null,
-  "remarks": "捺印なし"
- },
- {
-  "id": "S004369",
-  "name": "CANON EOS 90D ボディ",
-  "sub": "",
-  "jan": "4549292138313",
-  "buy": 127000,
   "buy_used": null,
   "remarks": "捺印なし"
  },
@@ -6093,42 +5922,6 @@
   "remarks": "印なしのみ"
  },
  {
-  "id": "S004367",
-  "name": "RICOH GR III Diary Edition",
-  "sub": "",
-  "jan": "4549212305863",
-  "buy": 174000,
-  "buy_used": null,
-  "remarks": "捺印なし"
- },
- {
-  "id": "S001706",
-  "name": "RICOH WG-70 [ブラック]",
-  "sub": "",
-  "jan": "4549212301612",
-  "buy": 30500,
-  "buy_used": null,
-  "remarks": "捺印なし"
- },
- {
-  "id": "S001707",
-  "name": "RICOH WG-70 [オレンジ]",
-  "sub": "",
-  "jan": "4549212301643",
-  "buy": 33000,
-  "buy_used": null,
-  "remarks": "捺印なし"
- },
- {
-  "id": "S001708",
-  "name": "RICOH WG-7 [レッド]",
-  "sub": "",
-  "jan": "4549212303647",
-  "buy": 38500,
-  "buy_used": null,
-  "remarks": "捺印なし"
- },
- {
   "id": "S001916",
   "name": "RICOH WG-80 [ブラック]",
   "sub": "",
@@ -6147,20 +5940,11 @@
   "remarks": "捺印なし"
  },
  {
-  "id": "S002191",
-  "name": "RICOH WG-6 [ブラック]",
-  "sub": "",
-  "jan": "4961311936326",
-  "buy": 27000,
-  "buy_used": null,
-  "remarks": "捺印なし"
- },
- {
   "id": "S013129",
   "name": "RICOH GR IV Monochrome",
   "sub": "",
   "jan": "4549212311994",
-  "buy": 220000,
+  "buy": 219000,
   "buy_used": null,
   "remarks": "印なしのみ"
  },
@@ -6172,33 +5956,6 @@
   "buy": 240000,
   "buy_used": null,
   "remarks": "印なしのみ"
- },
- {
-  "id": "S002562",
-  "name": "PENTAX K-3 Mark III ボディ [シルバー]",
-  "sub": "",
-  "jan": "4549212302565",
-  "buy": 150000,
-  "buy_used": null,
-  "remarks": "捺印なし"
- },
- {
-  "id": "S002563",
-  "name": "PENTAX K-3 Mark III ボディ [ブラック]",
-  "sub": "",
-  "jan": "4549212302336",
-  "buy": 150000,
-  "buy_used": null,
-  "remarks": "捺印なし"
- },
- {
-  "id": "S003403",
-  "name": "PENTAX K-3 Mark III Monochrome ボディ",
-  "sub": "",
-  "jan": "4549212305351",
-  "buy": 250000,
-  "buy_used": null,
-  "remarks": "捺印なし"
  },
  {
   "id": "S004746",
@@ -6232,7 +5989,7 @@
   "name": "OLYMPUS PEN E-P7 14-42mm EZレンズキット シルバー",
   "sub": "",
   "jan": "4545350053598",
-  "buy": 70000,
+  "buy": 73000,
   "buy_used": null,
   "remarks": "捺印なし"
  },
@@ -6241,88 +5998,7 @@
   "name": "OLYMPUS PEN E-P7 14-42mm EZレンズキット ホワイト",
   "sub": "",
   "jan": "4545350053604",
-  "buy": 70000,
-  "buy_used": null,
-  "remarks": "捺印なし"
- },
- {
-  "id": "S004924",
-  "name": "OM SYSTEM OM-1 12-40mm F2.8 PRO II キット",
-  "sub": "",
-  "jan": "4545350053871",
-  "buy": 210000,
-  "buy_used": null,
-  "remarks": "捺印なし"
- },
- {
-  "id": "S003761",
-  "name": "Panasonic LUMIX DC-S5M2K 標準ズームレンズキット",
-  "sub": "",
-  "jan": "4549980649923",
-  "buy": 195000,
-  "buy_used": null,
-  "remarks": "捺印なし"
- },
- {
-  "id": "S003383",
-  "name": "Panasonic DC-S5M2W ダブルレンズキット",
-  "sub": "",
-  "jan": "4549980684160",
-  "buy": 210000,
-  "buy_used": null,
-  "remarks": "捺印なし"
- },
- {
-  "id": "S003763",
-  "name": "Panasonic LUMIX DC-S5M2 ボディ",
-  "sub": "",
-  "jan": "4549980649909",
-  "buy": 175000,
-  "buy_used": null,
-  "remarks": "捺印なし"
- },
- {
-  "id": "S003765",
-  "name": "Panasonic　LUMIX DC-S5M2X ボディ",
-  "sub": "",
-  "jan": "4549980729533",
-  "buy": 205000,
-  "buy_used": null,
-  "remarks": "捺印なし、台数限定"
- },
- {
-  "id": "S002242",
-  "name": "Panasonic LUMIX DC-FZ85",
-  "sub": "",
-  "jan": "4549077890627",
-  "buy": 39000,
-  "buy_used": null,
-  "remarks": "捺印なし"
- },
- {
-  "id": "S002245",
-  "name": "Panasonic LUMIX DMC-FZ300",
-  "sub": "",
-  "jan": "4549077457974",
-  "buy": 43500,
-  "buy_used": null,
-  "remarks": "捺印なし"
- },
- {
-  "id": "S004641",
-  "name": "LUMIX DC-GH5M2M 標準ズームレンズキット",
-  "sub": "",
-  "jan": "4549980499795",
-  "buy": 130000,
-  "buy_used": null,
-  "remarks": "捺印なし"
- },
- {
-  "id": "S004642",
-  "name": "LUMIX DC-G9M2L 標準ズームレンズキット",
-  "sub": "",
-  "jan": "4549980721025",
-  "buy": 210000,
+  "buy": 78000,
   "buy_used": null,
   "remarks": "捺印なし"
  },
@@ -6331,7 +6007,7 @@
   "name": "LUMIX DC-G100DW ダブルズームレンズキット",
   "sub": "",
   "jan": "4549980769492",
-  "buy": 78000,
+  "buy": 81000,
   "buy_used": null,
   "remarks": "新品、捺印なし"
  },
@@ -6349,7 +6025,7 @@
   "name": "パナソニック LUMIX DC-FZ85D-K [ブラック]",
   "sub": "",
   "jan": "4549980789155",
-  "buy": 50000,
+  "buy": 51000,
   "buy_used": null,
   "remarks": "店舗印あり買取不可"
  },
@@ -6376,27 +6052,27 @@
   "name": "Kodak PIXPRO WPZ2",
   "sub": "",
   "jan": "4978877316851",
-  "buy": 18000,
+  "buy": 19000,
   "buy_used": null,
-  "remarks": "捺印なし"
+  "remarks": "印なしのみ"
  },
  {
   "id": "S004735",
   "name": "Kodak PIXPRO FZ55BK [黒]",
   "sub": "",
   "jan": "4978877387967",
-  "buy": 18000,
+  "buy": 19000,
   "buy_used": null,
-  "remarks": "捺印なし"
+  "remarks": "印なしのみ"
  },
  {
   "id": "S004736",
   "name": "Kodak　PIXPRO FZ55RD [赤]",
   "sub": "",
   "jan": "4978877387950",
-  "buy": 18000,
+  "buy": 19000,
   "buy_used": null,
-  "remarks": "捺印なし"
+  "remarks": "印なしのみ"
  },
  {
   "id": "S001781",
@@ -12757,7 +12433,7 @@
   "name": "象印 EE-DF50-HA [グレー]",
   "sub": "",
   "jan": "4974305231130",
-  "buy": 17500,
+  "buy": 14000,
   "buy_used": null,
   "remarks": ""
  },
