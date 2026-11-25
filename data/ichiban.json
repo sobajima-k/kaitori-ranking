@@ -4,7 +4,7 @@
   "name": "Nintendo Switch 2 国内版",
   "sub": "",
   "jan": "4902370553024",
-  "buy": 53600,
+  "buy": 54100,
   "buy_used": null,
   "remarks": "来店+200"
  },
@@ -36,11 +36,20 @@
   "remarks": ""
  },
  {
+  "id": "S008100",
+  "name": "Nintendo Switch ニンテンドーサウンドクロック Alarmo",
+  "sub": "",
+  "jan": "4902370552195",
+  "buy": 10600,
+  "buy_used": null,
+  "remarks": "来店+100"
+ },
+ {
   "id": "S001295",
   "name": "Nintendo Switch Lite グレー",
   "sub": "",
   "jan": "4902370542929",
-  "buy": 27500,
+  "buy": 27600,
   "buy_used": null,
   "remarks": "来店+100"
  },
@@ -49,7 +58,7 @@
   "name": "PS5 ワイヤレスコントローラー “グランド・セフト・オートVI” ブラック リミテッドエディション CFI-ZCT2JZH",
   "sub": "",
   "jan": "4948872417525",
-  "buy": 13600,
+  "buy": 14100,
   "buy_used": null,
   "remarks": ""
  },
@@ -58,7 +67,7 @@
   "name": "PlayStation 5 デジタル・エディション 日本語専用 CFI-2200B01 [825GB]",
   "sub": "",
   "jan": "4948872417419",
-  "buy": 49700,
+  "buy": 50000,
   "buy_used": null,
   "remarks": "来店+300、\r\n【シリアル番号の確認方法】\r\n◆ 製造年（6桁目）： 「5」→ 2025年製 ／ 「6」→ 2026年製\r\n◆ 製造月（7桁目）： 「1」～「9」→ 1月～9月製 ／ 「A」→ 10月製 ／ 「B」→ 11月製 ／ 「C」→ 12月製"
  },
@@ -67,45 +76,36 @@
   "name": "PlayStation 5 Pro CFI-7100B01 2TB 2025版",
   "sub": "",
   "jan": "4948872417075",
-  "buy": 216700,
+  "buy": 219700,
   "buy_used": null,
   "remarks": "来店+300"
+ },
+ {
+  "id": "S004942",
+  "name": "PS5 ディスクドライブ(Slimモデル用) CFI-ZDD1J",
+  "sub": "",
+  "jan": "4948872416030",
+  "buy": 9300,
+  "buy_used": null,
+  "remarks": ""
  },
  {
   "id": "S000998",
   "name": "Xbox series x",
   "sub": "",
   "jan": "4549576275383",
-  "buy": 122500,
+  "buy": 123000,
   "buy_used": null,
   "remarks": "来店+200\r\nJAN:4549576161617同額"
- },
- {
-  "id": "S004376",
-  "name": "Meta Quest 3 512GB",
-  "sub": "",
-  "jan": "815820024170",
-  "buy": 92500,
-  "buy_used": null,
-  "remarks": "来店+200"
  },
  {
   "id": "S012596",
   "name": "Steam Controller",
   "sub": "",
   "jan": "0814585022803",
-  "buy": 21200,
+  "buy": 21500,
   "buy_used": null,
   "remarks": "未開封"
- },
- {
-  "id": "S004740",
-  "name": "Steam Deck OLED 512GB",
-  "sub": "",
-  "jan": "0814585022254",
-  "buy": 139800,
-  "buy_used": null,
-  "remarks": "来店+200\r\nJAN:0814585022605同額"
  },
  {
   "id": "S009536",
@@ -130,7 +130,7 @@
   "name": "Nintendo Switch 2 Proコントローラー ゼルダの伝説 40周年 アニバーサリーエディション",
   "sub": "ディスプレイスタンド付き",
   "jan": "4902370554564",
-  "buy": 12300,
+  "buy": 12600,
   "buy_used": null,
   "remarks": ""
  },
@@ -288,15 +288,6 @@
   "remarks": ""
  },
  {
-  "id": "S008100",
-  "name": "Nintendo Switch ニンテンドーサウンドクロック Alarmo",
-  "sub": "",
-  "jan": "4902370552195",
-  "buy": 10600,
-  "buy_used": null,
-  "remarks": "来店+100"
- },
- {
   "id": "S006731",
   "name": "Nintendo Switch Lite ハイラルエディション",
   "sub": "",
@@ -328,7 +319,7 @@
   "name": "Nintendo Switch Lite ターコイズ",
   "sub": "",
   "jan": "4902370542943",
-  "buy": 27500,
+  "buy": 27600,
   "buy_used": null,
   "remarks": "来店+100"
  },
@@ -337,7 +328,7 @@
   "name": "Nintendo Switch Lite コーラル",
   "sub": "",
   "jan": "4902370545302",
-  "buy": 27700,
+  "buy": 28400,
   "buy_used": null,
   "remarks": "来店+100"
  },
@@ -346,7 +337,7 @@
   "name": "Nintendo Switch Lite イエロー",
   "sub": "",
   "jan": "4902370542936",
-  "buy": 27700,
+  "buy": 28000,
   "buy_used": null,
   "remarks": "来店+100"
  },
@@ -355,7 +346,7 @@
   "name": "Nintendo Switch Lite ブルー",
   "sub": "",
   "jan": "4902370547672",
-  "buy": 27700,
+  "buy": 28000,
   "buy_used": null,
   "remarks": "来店+100"
  },
@@ -454,7 +445,7 @@
   "name": "PS5 ワイヤレスコントローラー “グランド・セフト・オートVI” ホワイト リミテッドエディション CFI-ZCT2JZI",
   "sub": "",
   "jan": "4948872417501",
-  "buy": 13600,
+  "buy": 14100,
   "buy_used": null,
   "remarks": ""
  },
@@ -499,7 +490,7 @@
   "name": "PlayStation 5 Ghost of Yoteiゴールド リミテッドエディション CFIJ-10029",
   "sub": "",
   "jan": "4948872850391",
-  "buy": 118600,
+  "buy": 119500,
   "buy_used": null,
   "remarks": "来店＋300"
  },
@@ -508,7 +499,7 @@
   "name": "PlayStation 5 Pro CFI-7000B01 2TB",
   "sub": "",
   "jan": "4948872416320",
-  "buy": 216700,
+  "buy": 219700,
   "buy_used": null,
   "remarks": "来店+300"
  },
@@ -517,25 +508,16 @@
   "name": "PlayStation 5 slim CFI-2000A01",
   "sub": "",
   "jan": "4948872415934",
-  "buy": 118600,
+  "buy": 119500,
   "buy_used": null,
   "remarks": "来店 +300"
- },
- {
-  "id": "S004942",
-  "name": "PS5 ディスクドライブ(Slimモデル用) CFI-ZDD1J",
-  "sub": "",
-  "jan": "4948872416030",
-  "buy": 9000,
-  "buy_used": null,
-  "remarks": ""
  },
  {
   "id": "S014170",
   "name": "PS5 ディスクドライブ ミッドナイト ブラック CFI-ZDD1J01",
   "sub": "",
   "jan": "4948872418256",
-  "buy": 9000,
+  "buy": 9300,
   "buy_used": null,
   "remarks": ""
  },
@@ -544,7 +526,7 @@
   "name": "PlayStation 5 デジタル・エディション slim CFI-2000B01",
   "sub": "",
   "jan": "4948872415910",
-  "buy": 108400,
+  "buy": 109300,
   "buy_used": null,
   "remarks": "来店+300"
  },
@@ -562,7 +544,7 @@
   "name": "PlayStation 5 DualSense  slim ダブルパック CFIJ-10018",
   "sub": "",
   "jan": "4948872016940",
-  "buy": 120700,
+  "buy": 121500,
   "buy_used": null,
   "remarks": "来店+300"
  },
@@ -571,7 +553,7 @@
   "name": "PlayStation 5 デジタル・エディション DualSense  slim CFIJ-10019",
   "sub": "ダブルパック",
   "jan": "4948872016957",
-  "buy": 110000,
+  "buy": 111000,
   "buy_used": null,
   "remarks": "来店+300"
  },
@@ -967,7 +949,7 @@
   "name": "Xbox Series X デジタル エディション 1TB ロボット ホワイト　EP2-00708",
   "sub": "",
   "jan": "4549576247038",
-  "buy": 111000,
+  "buy": 111500,
   "buy_used": null,
   "remarks": "来店+200"
  },
@@ -1021,7 +1003,7 @@
   "name": "Xbox ワイヤレス コントローラー シリーズ 2 コア ブルー",
   "sub": "",
   "jan": "4549576206844",
-  "buy": 14800,
+  "buy": 14900,
   "buy_used": null,
   "remarks": ""
  },
@@ -1030,7 +1012,7 @@
   "name": "Xbox ワイヤレス コントローラー シリーズ 2 コア レッド",
   "sub": "",
   "jan": "4549576206837",
-  "buy": 14800,
+  "buy": 14900,
   "buy_used": null,
   "remarks": ""
  },
@@ -1039,7 +1021,7 @@
   "name": "Xbox Elite ワイヤレス コントローラー シリーズ 2 FST-00009",
   "sub": "",
   "jan": "4549576126906",
-  "buy": 19400,
+  "buy": 19500,
   "buy_used": null,
   "remarks": ""
  },
@@ -1098,6 +1080,15 @@
   "remarks": "来店+200"
  },
  {
+  "id": "S004376",
+  "name": "Meta Quest 3 512GB",
+  "sub": "",
+  "jan": "815820024170",
+  "buy": 92500,
+  "buy_used": null,
+  "remarks": "来店+200"
+ },
+ {
   "id": "S013065",
   "name": "Steam Machine 512GB",
   "sub": "",
@@ -1143,11 +1134,20 @@
   "remarks": ""
  },
  {
+  "id": "S004740",
+  "name": "Steam Deck OLED 512GB",
+  "sub": "",
+  "jan": "0814585022254",
+  "buy": 138800,
+  "buy_used": null,
+  "remarks": "来店+200\r\nJAN:0814585022605同額"
+ },
+ {
   "id": "S004741",
   "name": "Steam Deck OLED 1TB",
   "sub": "",
   "jan": "0814585022308",
-  "buy": 165800,
+  "buy": 164800,
   "buy_used": null,
   "remarks": "来店+200\r\nJAN:0814585022629同額"
  },
@@ -1201,7 +1201,7 @@
   "name": "Nintendo Switch Sports Resort/Switch 2",
   "sub": "",
   "jan": "4902370554892",
-  "buy": 5300,
+  "buy": 5400,
   "buy_used": null,
   "remarks": ""
  },
@@ -1786,7 +1786,7 @@
   "name": "instax SQUARE 2 チェキ ミスティホワイト",
   "sub": "",
   "jan": "4547410581881",
-  "buy": 14000,
+  "buy": 14500,
   "buy_used": null,
   "remarks": ""
  },
@@ -1795,7 +1795,7 @@
   "name": "instax SQUARE 2 チェキ ブリックレッド",
   "sub": "",
   "jan": "4547410581911",
-  "buy": 14000,
+  "buy": 14500,
   "buy_used": null,
   "remarks": ""
  },
@@ -1804,7 +1804,7 @@
   "name": "instax SQUARE 2 チェキ スレートブルー",
   "sub": "",
   "jan": "4547410581942",
-  "buy": 14000,
+  "buy": 14500,
   "buy_used": null,
   "remarks": ""
  },
@@ -2119,7 +2119,7 @@
   "name": "FUJIFILM instax SQUARE SQ40 チェキスクエア [ブラック]",
   "sub": "",
   "jan": "4547410511178",
-  "buy": 19000,
+  "buy": 18500,
   "buy_used": null,
   "remarks": ""
  },
@@ -2443,7 +2443,7 @@
   "name": "CANON PowerShot G7 X Mark III シルバー",
   "sub": "",
   "jan": "4549292137804",
-  "buy": 151000,
+  "buy": 149000,
   "buy_used": null,
   "remarks": "印あり-5000"
  },
@@ -2488,7 +2488,7 @@
   "name": "Canon PowerShot SX740 HS シルバー",
   "sub": "",
   "jan": "4549292119060",
-  "buy": 72000,
+  "buy": 71500,
   "buy_used": null,
   "remarks": "印あり-3000"
  },
@@ -2515,7 +2515,7 @@
   "name": "CANON PowerShot SX740 HS ブラック",
   "sub": "",
   "jan": "4549292119008",
-  "buy": 78500,
+  "buy": 76500,
   "buy_used": null,
   "remarks": "印あり-3000"
  },
@@ -2695,7 +2695,7 @@
   "name": "Panasonic LUMIX DC-TZ99-K ブラック",
   "sub": "",
   "jan": "4549980888247",
-  "buy": 66000,
+  "buy": 65000,
   "buy_used": null,
   "remarks": "捺印不可"
  },
@@ -3055,7 +3055,7 @@
   "name": "Google Fitbit Edge GA11585-AU",
   "sub": "Satin Pyrite アルミケースアクティブ バンド Olive",
   "jan": "840353961715",
-  "buy": 24000,
+  "buy": 23000,
   "buy_used": null,
   "remarks": ""
  },
@@ -3064,7 +3064,7 @@
   "name": "Google Fitbit Edge GA11584-AU",
   "sub": "Silver アルミケースアクティブ バンド Fog",
   "jan": "840353961753",
-  "buy": 24000,
+  "buy": 23000,
   "buy_used": null,
   "remarks": ""
  },
@@ -3073,7 +3073,7 @@
   "name": "Google Fitbit Edge GA11586-AU",
   "sub": "Champagne Gold アルミケースアクティブ バンド Canyon",
   "jan": "840353961678",
-  "buy": 24000,
+  "buy": 23000,
   "buy_used": null,
   "remarks": ""
  },
@@ -3082,7 +3082,7 @@
   "name": "Google Fitbit Edge GA11583-AU",
   "sub": "Matte Black アルミケースアクティブ バンド Obsidian",
   "jan": "840353961791",
-  "buy": 24000,
+  "buy": 23000,
   "buy_used": null,
   "remarks": ""
  },
@@ -3100,7 +3100,7 @@
   "name": "Pixel Watch 5 Wi-Fiモデル 41mm GA10898-US",
   "sub": "Polished Silver アルミケースFog アクティブ バンド",
   "jan": "0840353962132",
-  "buy": 41000,
+  "buy": 40000,
   "buy_used": null,
   "remarks": ""
  },
@@ -3109,7 +3109,7 @@
   "name": "Pixel Watch 5 Wi-Fiモデル 41mm GA10902-US",
   "sub": "Champagne Gold アルミケースCanyon アクティブ バンド",
   "jan": "0840353962057",
-  "buy": 41000,
+  "buy": 40000,
   "buy_used": null,
   "remarks": ""
  },
@@ -3118,7 +3118,7 @@
   "name": "Pixel Watch 5 Wi-Fiモデル 41mm GA11567-US",
   "sub": "Satin Pyrite アルミケースOlive アクティブ バンド",
   "jan": "0840353961920",
-  "buy": 41000,
+  "buy": 40000,
   "buy_used": null,
   "remarks": ""
  },
@@ -3127,7 +3127,7 @@
   "name": "Pixel Watch 5 Wi-Fiモデル 41mm GA10900-US",
   "sub": "Matte Black アルミケースObsidian アクティブ バンド",
   "jan": "0840353962095",
-  "buy": 41000,
+  "buy": 40000,
   "buy_used": null,
   "remarks": ""
  },
@@ -3136,7 +3136,7 @@
   "name": "Pixel Watch 5 Wi-Fiモデル 45mm GA10892-US",
   "sub": "Polished Silver アルミケースFog アクティブ バンド",
   "jan": "0840353962255",
-  "buy": 47000,
+  "buy": 45000,
   "buy_used": null,
   "remarks": ""
  },
@@ -3145,7 +3145,7 @@
   "name": "Pixel Watch 5 Wi-Fiモデル 45mm GA10896-US",
   "sub": "Satin Pyrite アルミケースOlive アクティブ バンド",
   "jan": "0840353962170",
-  "buy": 47000,
+  "buy": 45000,
   "buy_used": null,
   "remarks": ""
  },
@@ -6241,7 +6241,7 @@
   "name": "パナソニック HC-VX3-W [パールホワイト]",
   "sub": "",
   "jan": "4549980857717",
-  "buy": 89000,
+  "buy": 85000,
   "buy_used": null,
   "remarks": "印なしのみ"
  },
@@ -6250,7 +6250,7 @@
   "name": "パナソニック HC-VX3-K [レザーブラック]",
   "sub": "",
   "jan": "4549980857700",
-  "buy": 89000,
+  "buy": 85000,
   "buy_used": null,
   "remarks": "印なしのみ"
  },
@@ -9202,7 +9202,7 @@
   "name": "Dyson V12 Detect Slim Fluffy SV46 FF2 [シルバー]",
   "sub": "",
   "jan": "5025155139349",
-  "buy": 42000,
+  "buy": 41000,
   "buy_used": null,
   "remarks": "未開封のみ"
  },
@@ -11200,7 +11200,7 @@
   "name": "パナソニック ラムダッシュPRO ES-L670U-K [クラフトブラック]",
   "sub": "",
   "jan": "4549980852378",
-  "buy": 45500,
+  "buy": 45000,
   "buy_used": null,
   "remarks": ""
  },
@@ -11227,7 +11227,7 @@
   "name": "パナソニック ラムダッシュPRO ES-L650U-K [クラフトブラック]",
   "sub": "",
   "jan": "4549980852385",
-  "buy": 36000,
+  "buy": 34500,
   "buy_used": null,
   "remarks": ""
  },
@@ -12766,7 +12766,7 @@
   "name": "Panasonic ストラーダ CN-HE02WD",
   "sub": "",
   "jan": "4549980657249",
-  "buy": 62000,
+  "buy": 60000,
   "buy_used": null,
   "remarks": ""
  },
